@@ -1,11 +1,11 @@
-👋 German Developer - Main Projects @ [ItsNiceCraftStudios](https://github.com/itsnicecraftstudios)\n\n
+👋 German Developer - Main Projects @ [ItsNiceCraftStudios](https://github.com/itsnicecraftstudios)
 
 
 📡 Server Status: 
 
 [Web](https://status.itsnicecraft.eu) 
 
-[README](https://github.com/itsnicecraft/status) 
+[Repo](https://github.com/itsnicecraft/status) 
 
 [Issues](https://github.com/itsnicecraft/status/issues)
 
