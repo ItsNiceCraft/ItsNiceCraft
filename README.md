@@ -10,7 +10,7 @@
 [Repo](https://github.com/itsnicecraft/status) 
 
 
-Languages used (sorted): ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+Languages used (sorted): [Python](https://python.org) [TypeScript](https://github.com/microsoft/typescript) [Java](https://java.com)
 
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=itsnicecraft&count_private=true&show_icons=true&theme=algolia)
