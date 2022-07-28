@@ -11,7 +11,7 @@
 
 
 ## Languages I know
-[![Languages I know](https://skillicons.dev/icons?i=py,bash,c,docker,electron,flask,js,workers)](https://github.com/itsnicecraft)
+[![Languages I know](https://skillicons.dev/icons?i=py,bash)](https://github.com/itsnicecraft)
 
 ## Things I use
 
