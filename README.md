@@ -2,7 +2,7 @@
 
 
 ## Languages I know
-[![Languages I know](https://skillicons.dev/icons?i=py,bash)](https://github.com/itsnicecraft)
+[![Languages I know](https://skillicons.dev/icons?i=py,bash,godot)](https://github.com/itsnicecraft)
 
 ## Things I use
 
