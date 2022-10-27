@@ -1,13 +1,4 @@
-👋 German Developer - This account's repositories page only shows forks for repos I contributed to. For my own Projects check out [ItsNiceCraftStudios](https://github.com/itsnicecraftstudios)
-
-
-📡 Server Status: 
-
-[Web](https://status.itsnicecraft.eu) 
-
-[Incidents](https://github.com/itsnicecraft/status/issues)
-
-[Repo](https://github.com/itsnicecraft/status) 
+👋 German Developer+
 
 
 ## Languages I know
