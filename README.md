@@ -1,4 +1,4 @@
-👋 German Developer+
+👋 German Developer
 
 
 ## Languages I know
