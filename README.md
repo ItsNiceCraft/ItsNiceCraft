@@ -1,12 +1,16 @@
 👋 German Developer
 
 
-## Languages I know
-[![Languages I know](https://skillicons.dev/icons?i=py,bash,godot)](https://github.com/itsnicecraft)
+## // languages
+[![languages](https://skillicons.dev/icons?i=py,bash,godot,java)](https://github.com/itsnicecraft)
 
-## Things I use
+## // tools
 
-[![Things I use](https://skillicons.dev/icons?i=vscode,visualstudio,idea,twitter,raspberrypi,nodejs,mongodb,linux,grafana,github,gitlab,gcp,aws,azure,fediverse,mastodon,discord,cloudflare,androidstudio,vercel)](https://github.com/itsnicecraft)
+[![tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,twitter,raspberrypi,nodejs,mongodb,linux,grafana,github,gitlab,gcp,aws,azure,fediverse,mastodon,discord,cloudflare,androidstudio,vercel)](https://github.com/itsnicecraft)
 
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=itsnicecraft&count_private=true&show_icons=true&theme=algolia)
+![Metrics](https://github-readme-stats.vercel.app/api?username=itsnicecraft&count_private=true&show_icons=true&theme=react)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnicecraft&layout=compact&theme=react)](https://github.com/itsnicecraft) -->
+
+<!-- [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ItsNiceCraft&layout=compact&theme=react)](https://github.com/itsnicecraft) -->
