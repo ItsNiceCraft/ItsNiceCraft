@@ -8,11 +8,9 @@
 
 [![tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,twitter,raspberrypi,nodejs,mongodb,linux,grafana,github,gitlab,gcp,aws,azure,fediverse,mastodon,discord,cloudflare,androidstudio,vercel)](https://github.com/itsnicecraft)
 
+## // metrics
 
-![Metrics](/github-metrics.svg)
-
-
-<!-- ![Metrics](https://github-readme-stats.vercel.app/api?username=itsnicecraft&count_private=true&show_icons=true&theme=react) -->
+![Metrics](https://github-readme-stats.vercel.app/api?username=itsnicecraft&count_private=true&show_icons=true&theme=react)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnicecraft&layout=compact&theme=react)](https://github.com/itsnicecraft) -->
 
