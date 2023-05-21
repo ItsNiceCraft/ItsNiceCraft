@@ -1,0 +1,8 @@
+{
+    "ignoredFiles": [
+        "*.jpg",
+        "*.png",
+        "graphs/*",
+        "assets/*"
+    ]
+}
