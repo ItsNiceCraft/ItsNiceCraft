@@ -2,6 +2,7 @@
     "ignoredFiles": [
         "*.jpg",
         "*.png",
+        "*.svg",
         "graphs/*",
         "assets/*"
     ]
