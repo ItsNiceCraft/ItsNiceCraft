@@ -5,7 +5,7 @@
 
 ## // tools
 
-![tools](https://skillicons.dev/icons?i=androidstudio,aws,azure,cloudflare,discord,docker,figma,fediverse,gcp,git,github,githubactions,gitlab,grafana,idea,jenkins,linux,mastodon,mongodb,nodejs,prometheus,raspberrypi,selenium,twitter,vercel,visualstudio,vscode,svg)
+![tools](https://skillicons.dev/icons?i=androidstudio,aws,azure,cloudflare,discord,docker,figma,fediverse,gcp,git,github,githubactions,gitlab,grafana,idea,jenkins,linux,mastodon,mongodb,nodejs,prometheus,raspberrypi,selenium,svg,twitter,vercel,visualstudio,vscode)
 
 ## // contributions
 
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (today)
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages. (today)
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (1 day ago)
 - [TheUsefulLists/UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods (1 day ago)
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (2 days ago)
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (2 days ago)
 
 ## // metrics
 
