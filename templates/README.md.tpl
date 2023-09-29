@@ -5,7 +5,7 @@
 
 ## // tools
 
-![tools](https://skillicons.dev/icons?i=androidstudio,aws,azure,cloudflare,discord,docker,figma,fediverse,gcp,git,github,githubactions,gitlab,grafana,idea,jenkins,linux,mastodon,mongodb,nodejs,prometheus,raspberrypi,selenium,twitter,vercel,visualstudio,vscode,svg)
+![tools](https://skillicons.dev/icons?i=androidstudio,aws,azure,cloudflare,discord,docker,figma,fediverse,gcp,git,github,githubactions,gitlab,grafana,idea,jenkins,linux,mastodon,mongodb,nodejs,prometheus,raspberrypi,selenium,svg,twitter,vercel,visualstudio,vscode)
 
 ## // contributions
 
