@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories. (today)
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles. (today)
 - [vberlier/nbtlib](https://github.com/vberlier/nbtlib) - A python library to read and edit nbt data. (today)
 - [tryashtar/nbt-studio](https://github.com/tryashtar/nbt-studio) - An up-to-date NBT viewer and editor with lots of new features (today)
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project (1 day ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
 
 ## // metrics
 
