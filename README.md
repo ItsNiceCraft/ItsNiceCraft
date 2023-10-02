@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [tryashtar/nbt-studio](https://github.com/tryashtar/nbt-studio) - An up-to-date NBT viewer and editor with lots of new features (today)
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project (1 day ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (3 days ago)
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages. (3 days ago)
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (4 days ago)
 
 ## // metrics
 
