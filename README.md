@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (3 days ago)
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (4 days ago)
 - [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (1 week ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 month ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (1 month ago)
@@ -26,7 +26,7 @@
 
 #### // recent pull requests
 
-- [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (3 days ago)
+- [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (4 days ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (1 month ago)
 - [fix: fix dotnet workflow](https://github.com/kota69th/CreativeExpansionPack/pull/6) on [kota69th/CreativeExpansionPack](https://github.com/kota69th/CreativeExpansionPack) (1 month ago)
 - [Add Github pages verification for itsnicecraft.is-a.dev](https://github.com/is-a-dev/register/pull/6967) on [is-a-dev/register](https://github.com/is-a-dev/register) (1 month ago)
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project (today)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (2 days ago)
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages. (2 days ago)
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (3 days ago)
+- [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (3 days ago)
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages. (3 days ago)
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (4 days ago)
 
 ## // metrics
 
