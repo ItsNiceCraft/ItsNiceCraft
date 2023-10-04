@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr) (today)
+- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (today)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. (today)
 - [PretendoNetwork/Nimble](https://github.com/PretendoNetwork/Nimble) - Wii U Pretendo Network BOSS setup module (Aroma) (today)
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories. (2 days ago)
-- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles. (2 days ago)
-- [vberlier/nbtlib](https://github.com/vberlier/nbtlib) - A python library to read and edit nbt data. (2 days ago)
 
 ## // metrics
 
