@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. (today)
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr) (1 day ago)
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (1 day ago)
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. (1 day ago)
 - [PretendoNetwork/Nimble](https://github.com/PretendoNetwork/Nimble) - Wii U Pretendo Network BOSS setup module (Aroma) (1 day ago)
-- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories. (3 days ago)
 
 ## // metrics
 
