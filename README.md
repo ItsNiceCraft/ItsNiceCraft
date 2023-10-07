@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (today)
+- [IntellectualSites/PlotSquared](https://github.com/IntellectualSites/PlotSquared) - PlotSquared - Reinventing the plotworld (today)
 - [maruohon/minihud](https://github.com/maruohon/minihud) - A client-side Minecraft mod with configurable &#34;info lines&#34; (&#34;mini-F3&#34;) and various overlays, such as light level and structure bounding boxes (1 day ago)
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. (2 days ago)
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr) (3 days ago)
-- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor (3 days ago)
-- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. (3 days ago)
 
 ## // metrics
 
