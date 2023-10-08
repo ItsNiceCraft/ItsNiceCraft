@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms. (today)
 - [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them. (today)
 - [ChanceSD/PvPManager](https://github.com/ChanceSD/PvPManager) - A Spigot/Paper plugin to toggle PvP, stop combat log, protect new players and much more (1 day ago)
 - [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event (1 day ago)
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 day ago)
-- [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases (1 day ago)
 
 ## // metrics
 
