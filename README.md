@@ -20,7 +20,7 @@
 #### // recent releases I contributed to
 
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.2.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.2.2), 4 weeks ago) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.2.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.2.2), 1 month ago) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 2 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 3 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
 
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms. (1 day ago)
-- [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them. (1 day ago)
-- [ChanceSD/PvPManager](https://github.com/ChanceSD/PvPManager) - A Spigot/Paper plugin to toggle PvP, stop combat log, protect new players and much more (2 days ago)
-- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event (2 days ago)
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (2 days ago)
+- [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms. (2 days ago)
+- [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them. (2 days ago)
+- [ChanceSD/PvPManager](https://github.com/ChanceSD/PvPManager) - A Spigot/Paper plugin to toggle PvP, stop combat log, protect new players and much more (3 days ago)
+- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event (3 days ago)
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (3 days ago)
 
 ## // metrics
 
