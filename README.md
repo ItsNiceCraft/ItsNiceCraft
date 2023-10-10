@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup (today)
+- [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (today)
 - [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms. (2 days ago)
 - [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them. (2 days ago)
 - [ChanceSD/PvPManager](https://github.com/ChanceSD/PvPManager) - A Spigot/Paper plugin to toggle PvP, stop combat log, protect new players and much more (3 days ago)
-- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event (3 days ago)
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (3 days ago)
 
 ## // metrics
 
