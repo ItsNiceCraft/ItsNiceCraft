@@ -12,14 +12,14 @@
 #### // recent contributions
 
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (1 week ago)
-- [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (2 weeks ago)
+- [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (3 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 month ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (2 months ago)
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing. (2 months ago)
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.2.3](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.2.3), today) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.2.3](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.2.3), 1 day ago) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 2 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 3 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup (today)
-- [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (today)
-- [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms. (2 days ago)
-- [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them. (2 days ago)
-- [ChanceSD/PvPManager](https://github.com/ChanceSD/PvPManager) - A Spigot/Paper plugin to toggle PvP, stop combat log, protect new players and much more (3 days ago)
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup (1 day ago)
+- [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (1 day ago)
+- [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms. (3 days ago)
+- [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them. (3 days ago)
+- [ChanceSD/PvPManager](https://github.com/ChanceSD/PvPManager) - A Spigot/Paper plugin to toggle PvP, stop combat log, protect new players and much more (4 days ago)
 
 ## // metrics
 
