@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (today)
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup (2 days ago)
 - [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (2 days ago)
 - [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms. (4 days ago)
 - [SkriptLang/Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them. (4 days ago)
-- [ChanceSD/PvPManager](https://github.com/ChanceSD/PvPManager) - A Spigot/Paper plugin to toggle PvP, stop combat log, protect new players and much more (5 days ago)
 
 ## // metrics
 
