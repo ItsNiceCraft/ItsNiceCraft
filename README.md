@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄 (today)
 - [henry-debruin/nso-icons](https://github.com/henry-debruin/nso-icons) -  (today)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (today)
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup (2 days ago)
 - [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (2 days ago)
-- [Kir-Antipov/mc-publish](https://github.com/Kir-Antipov/mc-publish) - 🚀 Your one-stop GitHub Action for seamless Minecraft project publication across various platforms. (4 days ago)
 
 ## // metrics
 
