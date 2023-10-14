@@ -19,8 +19,8 @@
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.2.3](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.2.3), 3 days ago) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 4 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.2.3](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.2.3), 4 days ago) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 1 month ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 3 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 3 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
 
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [brenner-tobias/addon-cloudflared](https://github.com/brenner-tobias/addon-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared. (1 day ago)
-- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄 (1 day ago)
-- [henry-debruin/nso-icons](https://github.com/henry-debruin/nso-icons) -  (1 day ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 day ago)
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup (3 days ago)
+- [brenner-tobias/addon-cloudflared](https://github.com/brenner-tobias/addon-cloudflared) - Connect remotely to your Home Assistant instance without opening any ports using Cloudflared. (2 days ago)
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄 (2 days ago)
+- [henry-debruin/nso-icons](https://github.com/henry-debruin/nso-icons) -  (2 days ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 days ago)
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup (4 days ago)
 
 ## // metrics
 
