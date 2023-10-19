@@ -26,11 +26,11 @@
 
 #### // recent pull requests
 
+- [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (today)
 - [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (3 weeks ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (1 month ago)
 - [fix: fix dotnet workflow](https://github.com/kota69th/CreativeExpansionPack/pull/6) on [kota69th/CreativeExpansionPack](https://github.com/kota69th/CreativeExpansionPack) (2 months ago)
 - [Add Github pages verification for itsnicecraft.is-a.dev](https://github.com/is-a-dev/register/pull/6967) on [is-a-dev/register](https://github.com/is-a-dev/register) (2 months ago)
-- [docs: Change timezone picker to modern, working alternative](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1152) on [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) (2 months ago)
 
 #### // recent stars
 
