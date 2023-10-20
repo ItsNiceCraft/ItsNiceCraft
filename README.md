@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first. (today)
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing  (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (today)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (today)
-- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (today)
-- [femboyindustries/julibox.tv](https://github.com/femboyindustries/julibox.tv) - Jackbox proxy server for easy-to-use client modifications (1 day ago)
 
 ## // metrics
 
