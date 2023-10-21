@@ -26,7 +26,7 @@
 
 #### // recent pull requests
 
-- [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (1 day ago)
+- [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (2 days ago)
 - [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (3 weeks ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (1 month ago)
 - [fix: fix dotnet workflow](https://github.com/kota69th/CreativeExpansionPack/pull/6) on [kota69th/CreativeExpansionPack](https://github.com/kota69th/CreativeExpansionPack) (2 months ago)
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first. (today)
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing  (today)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (today)
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (today)
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first. (1 day ago)
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing  (1 day ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 day ago)
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (1 day ago)
 
 ## // metrics
 
