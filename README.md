@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [maruohon/tweakeroo](https://github.com/maruohon/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (today)
 - [SpockBotMC/python-minecraft-data](https://github.com/SpockBotMC/python-minecraft-data) - Provide easy access to minecraft-data in python (today)
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python  (1 day ago)
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API. (1 day ago)
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first. (2 days ago)
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing  (2 days ago)
 
 ## // metrics
 
