@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (today)
 - [wiiu-env/WiiUPluginSystem](https://github.com/wiiu-env/WiiUPluginSystem) -  (1 day ago)
 - [maruohon/tweakeroo](https://github.com/maruohon/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (2 days ago)
 - [SpockBotMC/python-minecraft-data](https://github.com/SpockBotMC/python-minecraft-data) - Provide easy access to minecraft-data in python (2 days ago)
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python  (3 days ago)
-- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API. (3 days ago)
 
 ## // metrics
 
