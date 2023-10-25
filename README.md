@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers. (today)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (today)
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (1 day ago)
 - [wiiu-env/WiiUPluginSystem](https://github.com/wiiu-env/WiiUPluginSystem) -  (2 days ago)
 - [maruohon/tweakeroo](https://github.com/maruohon/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (3 days ago)
-- [SpockBotMC/python-minecraft-data](https://github.com/SpockBotMC/python-minecraft-data) - Provide easy access to minecraft-data in python (3 days ago)
 
 ## // metrics
 
