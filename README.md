@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [Earthcomputer/clientcommands](https://github.com/Earthcomputer/clientcommands) - Adds useful client-side commands (today)
+- [WolfyScript/CustomCrafting](https://github.com/WolfyScript/CustomCrafting) - Spigot based plugin to create your own custom Recipes &amp; Items. Designed to be easy to use with in-game GUI and tons of configuration possibilities. (today)
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (today)
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers. (2 days ago)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (2 days ago)
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (3 days ago)
-- [wiiu-env/WiiUPluginSystem](https://github.com/wiiu-env/WiiUPluginSystem) -  (4 days ago)
-- [maruohon/tweakeroo](https://github.com/maruohon/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (5 days ago)
 
 ## // metrics
 
