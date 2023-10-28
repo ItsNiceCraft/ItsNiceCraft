@@ -11,8 +11,8 @@
 
 #### // recent contributions
 
-- [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (4 days ago)
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (4 weeks ago)
+- [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (5 days ago)
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (1 month ago)
 - [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (1 month ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 month ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (2 months ago)
@@ -26,19 +26,19 @@
 
 #### // recent pull requests
 
-- [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (2 days ago)
+- [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (3 days ago)
 - [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (1 week ago)
-- [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (4 weeks ago)
+- [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (1 month ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (1 month ago)
 - [fix: fix dotnet workflow](https://github.com/kota69th/CreativeExpansionPack/pull/6) on [kota69th/CreativeExpansionPack](https://github.com/kota69th/CreativeExpansionPack) (2 months ago)
 
 #### // recent stars
 
-- [Earthcomputer/clientcommands](https://github.com/Earthcomputer/clientcommands) - Adds useful client-side commands (today)
-- [WolfyScript/CustomCrafting](https://github.com/WolfyScript/CustomCrafting) - Spigot based plugin to create your own custom Recipes &amp; Items. Designed to be easy to use with in-game GUI and tons of configuration possibilities. (today)
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (today)
-- [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers. (2 days ago)
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (2 days ago)
+- [Earthcomputer/clientcommands](https://github.com/Earthcomputer/clientcommands) - Adds useful client-side commands (1 day ago)
+- [WolfyScript/CustomCrafting](https://github.com/WolfyScript/CustomCrafting) - Spigot based plugin to create your own custom Recipes &amp; Items. Designed to be easy to use with in-game GUI and tons of configuration possibilities. (1 day ago)
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 day ago)
+- [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers. (3 days ago)
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (3 days ago)
 
 ## // metrics
 
