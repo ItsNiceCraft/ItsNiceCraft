@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (today)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (today)
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! (today)
 - [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, and Tautulli (today)
 - [Earthcomputer/clientcommands](https://github.com/Earthcomputer/clientcommands) - Adds useful client-side commands (2 days ago)
-- [WolfyScript/CustomCrafting](https://github.com/WolfyScript/CustomCrafting) - Spigot based plugin to create your own custom Recipes &amp; Items. Designed to be easy to use with in-game GUI and tons of configuration possibilities. (2 days ago)
 
 ## // metrics
 
