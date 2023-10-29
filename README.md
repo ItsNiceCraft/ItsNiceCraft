@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (today)
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! (today)
 - [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, and Tautulli (today)
 - [Earthcomputer/clientcommands](https://github.com/Earthcomputer/clientcommands) - Adds useful client-side commands (2 days ago)
 - [WolfyScript/CustomCrafting](https://github.com/WolfyScript/CustomCrafting) - Spigot based plugin to create your own custom Recipes &amp; Items. Designed to be easy to use with in-game GUI and tons of configuration possibilities. (2 days ago)
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (2 days ago)
-- [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers. (4 days ago)
 
 ## // metrics
 
