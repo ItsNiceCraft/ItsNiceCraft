@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers. (today)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (1 day ago)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (1 day ago)
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system! (1 day ago)
 - [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, and Tautulli (1 day ago)
-- [Earthcomputer/clientcommands](https://github.com/Earthcomputer/clientcommands) - Adds useful client-side commands (3 days ago)
 
 ## // metrics
 
