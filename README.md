@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (today)
 - [Mikedeejay2/SimpleStackPlugin](https://github.com/Mikedeejay2/SimpleStackPlugin) - A highly customizable Minecraft plugin for changing the stack sizes of items (today)
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (today)
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers. (2 days ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (3 days ago)
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (3 days ago)
 
 ## // metrics
 
