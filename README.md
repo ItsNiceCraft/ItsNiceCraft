@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (today)
-- [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (1 day ago)
-- [Mikedeejay2/SimpleStackPlugin](https://github.com/Mikedeejay2/SimpleStackPlugin) - A highly customizable Minecraft plugin for changing the stack sizes of items (1 day ago)
-- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (1 day ago)
-- [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers. (3 days ago)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 day ago)
+- [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (2 days ago)
+- [Mikedeejay2/SimpleStackPlugin](https://github.com/Mikedeejay2/SimpleStackPlugin) - A highly customizable Minecraft plugin for changing the stack sizes of items (2 days ago)
+- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (2 days ago)
+- [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers. (4 days ago)
 
 ## // metrics
 
