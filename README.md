@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (today)
+- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (today)
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (today)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (2 days ago)
 - [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (3 days ago)
-- [Mikedeejay2/SimpleStackPlugin](https://github.com/Mikedeejay2/SimpleStackPlugin) - A highly customizable Minecraft plugin for changing the stack sizes of items (3 days ago)
-- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (3 days ago)
 
 ## // metrics
 
