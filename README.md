@@ -12,7 +12,7 @@
 #### // recent contributions
 
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (1 week ago)
-- [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (1 week ago)
+- [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (2 weeks ago)
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (1 month ago)
 - [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (1 month ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (1 day ago)
-- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (1 day ago)
-- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (1 day ago)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (3 days ago)
-- [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (4 days ago)
+- [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (2 days ago)
+- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (2 days ago)
+- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (2 days ago)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (4 days ago)
+- [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (5 days ago)
 
 ## // metrics
 
