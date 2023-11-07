@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙 (today)
+- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama (today)
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (today)
 - [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (3 days ago)
 - [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (3 days ago)
-- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (3 days ago)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (5 days ago)
-- [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (6 days ago)
 
 ## // metrics
 
