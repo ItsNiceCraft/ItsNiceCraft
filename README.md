@@ -20,7 +20,7 @@
 #### // recent releases I contributed to
 
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.3.0](https://github.com/smuddgge/Leaf/releases/tag/4.3.0), 2 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.2.3](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.2.3), 3 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.2.3](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.2.3), 4 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 1 month ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 3 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 4 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (2 days ago)
-- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (2 days ago)
-- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (2 days ago)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (4 days ago)
-- [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (5 days ago)
+- [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (3 days ago)
+- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (3 days ago)
+- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (3 days ago)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (5 days ago)
+- [Fuzss/pickupnotifier](https://github.com/Fuzss/pickupnotifier) - Be notified about all the things you&#39;ve just collected. (6 days ago)
 
 ## // metrics
 
