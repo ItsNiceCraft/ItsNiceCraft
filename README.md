@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker. (today)
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. (today)
 - [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙 (1 day ago)
 - [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama (1 day ago)
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (1 day ago)
-- [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (4 days ago)
-- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (4 days ago)
 
 ## // metrics
 
