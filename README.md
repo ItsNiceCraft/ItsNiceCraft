@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (1 week ago)
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (2 weeks ago)
 - [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (2 weeks ago)
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (1 month ago)
 - [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (1 month ago)
@@ -27,7 +27,7 @@
 
 #### // recent pull requests
 
-- [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (1 week ago)
+- [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (2 weeks ago)
 - [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (2 weeks ago)
 - [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (1 month ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (2 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙 (today)
-- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama (today)
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (today)
-- [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (3 days ago)
-- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (3 days ago)
+- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙 (1 day ago)
+- [ggozad/oterm](https://github.com/ggozad/oterm) - a text-based terminal client for Ollama (1 day ago)
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally (1 day ago)
+- [Auxilor/EcoEnchants](https://github.com/Auxilor/EcoEnchants) - Custom Enchantments Plugin for the latest minecraft version (4 days ago)
+- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies. (4 days ago)
 
 ## // metrics
 
