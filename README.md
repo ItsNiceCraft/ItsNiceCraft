@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [AlexProgrammerDE/PistonQueue](https://github.com/AlexProgrammerDE/PistonQueue) - Best queue plugin out there! (today)
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) - ඞ Among-us themed OS. As seen on Reddit and Youtube. (5 days ago)
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS (5 days ago)
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (5 days ago)
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker. (6 days ago)
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. (6 days ago)
 
 ## // metrics
 
