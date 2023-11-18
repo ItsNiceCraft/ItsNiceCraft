@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes (today)
 - [rtm516/MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live. (1 day ago)
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc). (1 day ago)
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, &amp; patcher. 3,600&#43; icons, 50&#43; patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more (2 days ago)
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (2 days ago)
-- [AlexProgrammerDE/PistonQueue](https://github.com/AlexProgrammerDE/PistonQueue) - Best queue plugin out there! (4 days ago)
 
 ## // metrics
 
