@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 5 days ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 6 days ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.3.0](https://github.com/smuddgge/Leaf/releases/tag/4.3.0), 3 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 4 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -28,18 +28,18 @@
 #### // recent pull requests
 
 - [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (3 weeks ago)
-- [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (4 weeks ago)
+- [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (1 month ago)
 - [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (1 month ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (2 months ago)
 - [fix: fix dotnet workflow](https://github.com/kota69th/CreativeExpansionPack/pull/6) on [kota69th/CreativeExpansionPack](https://github.com/kota69th/CreativeExpansionPack) (3 months ago)
 
 #### // recent stars
 
-- [rtm516/MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live. (today)
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc). (today)
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, &amp; patcher. 3,600&#43; icons, 50&#43; patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more (1 day ago)
-- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (1 day ago)
-- [AlexProgrammerDE/PistonQueue](https://github.com/AlexProgrammerDE/PistonQueue) - Best queue plugin out there! (3 days ago)
+- [rtm516/MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live. (1 day ago)
+- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc). (1 day ago)
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, &amp; patcher. 3,600&#43; icons, 50&#43; patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more (2 days ago)
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (2 days ago)
+- [AlexProgrammerDE/PistonQueue](https://github.com/AlexProgrammerDE/PistonQueue) - Best queue plugin out there! (4 days ago)
 
 ## // metrics
 
