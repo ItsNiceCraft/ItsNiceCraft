@@ -14,13 +14,13 @@
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (3 weeks ago)
 - [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (3 weeks ago)
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (1 month ago)
-- [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (1 month ago)
+- [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (2 months ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 months ago)
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 6 days ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.3.0](https://github.com/smuddgge/Leaf/releases/tag/4.3.0), 3 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 1 week ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.3.0](https://github.com/smuddgge/Leaf/releases/tag/4.3.0), 4 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 4 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 4 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [theSimpleCloud/SimpleCloud](https://github.com/theSimpleCloud/SimpleCloud) - A simple alternative to other minecraft cloud systems (today)
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI (today)
-- [PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers. (today)
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (today)
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes (today)
+- [theSimpleCloud/SimpleCloud](https://github.com/theSimpleCloud/SimpleCloud) - A simple alternative to other minecraft cloud systems (1 day ago)
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI (1 day ago)
+- [PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers. (1 day ago)
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (1 day ago)
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes (1 day ago)
 
 ## // metrics
 
