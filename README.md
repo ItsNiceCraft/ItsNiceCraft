@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition (today)
 - [theSimpleCloud/SimpleCloud](https://github.com/theSimpleCloud/SimpleCloud) - A simple alternative to other minecraft cloud systems (1 day ago)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI (1 day ago)
 - [PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers. (1 day ago)
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (1 day ago)
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes (1 day ago)
 
 ## // metrics
 
