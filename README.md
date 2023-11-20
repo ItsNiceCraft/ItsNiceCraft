@@ -12,7 +12,7 @@
 #### // recent contributions
 
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (3 weeks ago)
-- [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (3 weeks ago)
+- [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (4 weeks ago)
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (1 month ago)
 - [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (2 months ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition (today)
-- [theSimpleCloud/SimpleCloud](https://github.com/theSimpleCloud/SimpleCloud) - A simple alternative to other minecraft cloud systems (1 day ago)
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI (1 day ago)
-- [PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers. (1 day ago)
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (1 day ago)
+- [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition (1 day ago)
+- [theSimpleCloud/SimpleCloud](https://github.com/theSimpleCloud/SimpleCloud) - A simple alternative to other minecraft cloud systems (2 days ago)
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI (2 days ago)
+- [PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers. (2 days ago)
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time (2 days ago)
 
 ## // metrics
 
