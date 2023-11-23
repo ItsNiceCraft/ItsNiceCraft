@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (today)
+- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works. (today)
 - [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (today)
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (1 day ago)
 - [mkhorasani/Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator) - A secure authentication module to validate user credentials in a Streamlit application. (1 day ago)
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security. (1 day ago)
-- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (1 day ago)
 
 ## // metrics
 
