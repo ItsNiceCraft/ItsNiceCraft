@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (today)
-- [mkhorasani/Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator) - A secure authentication module to validate user credentials in a Streamlit application. (today)
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security. (today)
-- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (today)
-- [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition (3 days ago)
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (1 day ago)
+- [mkhorasani/Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator) - A secure authentication module to validate user credentials in a Streamlit application. (1 day ago)
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security. (1 day ago)
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (1 day ago)
+- [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition (4 days ago)
 
 ## // metrics
 
