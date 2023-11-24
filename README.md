@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (4 weeks ago)
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (1 month ago)
 - [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (1 month ago)
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (1 month ago)
 - [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (2 months ago)
@@ -27,7 +27,7 @@
 
 #### // recent pull requests
 
-- [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (4 weeks ago)
+- [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (1 month ago)
 - [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (1 month ago)
 - [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (1 month ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (2 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (today)
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works. (today)
-- [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (today)
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (1 day ago)
-- [mkhorasani/Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator) - A secure authentication module to validate user credentials in a Streamlit application. (1 day ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (1 day ago)
+- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works. (1 day ago)
+- [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (1 day ago)
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (2 days ago)
+- [mkhorasani/Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator) - A secure authentication module to validate user credentials in a Streamlit application. (2 days ago)
 
 ## // metrics
 
