@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem (today)
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (today)
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (2 days ago)
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works. (2 days ago)
 - [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (2 days ago)
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (3 days ago)
 
 ## // metrics
 
