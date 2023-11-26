@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 1 week ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 2 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.3.0](https://github.com/smuddgge/Leaf/releases/tag/4.3.0), 1 month ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 4 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem (today)
-- [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (today)
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (2 days ago)
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works. (2 days ago)
-- [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (2 days ago)
+- [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem (1 day ago)
+- [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (1 day ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (3 days ago)
+- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works. (3 days ago)
+- [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (3 days ago)
 
 ## // metrics
 
