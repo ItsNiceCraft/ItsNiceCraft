@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (today)
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem (1 day ago)
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (1 day ago)
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (3 days ago)
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works. (3 days ago)
-- [WiIIiam278/HuskSync](https://github.com/WiIIiam278/HuskSync) - A modern, cross-server player data synchronisation system (3 days ago)
 
 ## // metrics
 
