@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure) - A user-interface library, formerly known as text, for Minecraft: Java Edition (today)
+- [jpenilla/MiniMOTD](https://github.com/jpenilla/MiniMOTD) - Minecraft server/proxy plugin to set the server list MOTD using MiniMessage for formatting, supporting RGB colors. (today)
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards. (1 day ago)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 day ago)
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem (2 days ago)
-- [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (2 days ago)
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (4 days ago)
 
 ## // metrics
 
