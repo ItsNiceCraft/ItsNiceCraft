@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter. (today)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (today)
 - [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure) - A user-interface library, formerly known as text, for Minecraft: Java Edition (1 day ago)
 - [jpenilla/MiniMOTD](https://github.com/jpenilla/MiniMOTD) - Minecraft server/proxy plugin to set the server list MOTD using MiniMessage for formatting, supporting RGB colors. (1 day ago)
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards. (2 days ago)
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (2 days ago)
 
 ## // metrics
 
