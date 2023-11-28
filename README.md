@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It&#39;s fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.  (today)
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter. (today)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (today)
 - [KyoriPowered/adventure](https://github.com/KyoriPowered/adventure) - A user-interface library, formerly known as text, for Minecraft: Java Edition (1 day ago)
 - [jpenilla/MiniMOTD](https://github.com/jpenilla/MiniMOTD) - Minecraft server/proxy plugin to set the server list MOTD using MiniMessage for formatting, supporting RGB colors. (1 day ago)
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards. (2 days ago)
 
 ## // metrics
 
