@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (today)
 - [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i&#39;m creating (1 day ago)
 - [arnaudmiribel/streamlit-extras](https://github.com/arnaudmiribel/streamlit-extras) - Discover, try, install and share Streamlit re-usable bits we call &#34;extras&#34;! (1 day ago)
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client. (1 day ago)
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It&#39;s fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.  (2 days ago)
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter. (2 days ago)
 
 ## // metrics
 
