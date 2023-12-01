@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [DenizenScript/Denizen](https://github.com/DenizenScript/Denizen) - NPC and general Spigot scripting, using the Denizen Scripting Language! (today)
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library (today)
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (1 day ago)
 - [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i&#39;m creating (2 days ago)
 - [arnaudmiribel/streamlit-extras](https://github.com/arnaudmiribel/streamlit-extras) - Discover, try, install and share Streamlit re-usable bits we call &#34;extras&#34;! (2 days ago)
-- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client. (2 days ago)
 
 ## // metrics
 
