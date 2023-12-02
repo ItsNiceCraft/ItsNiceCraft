@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [fourjr/rainbot](https://github.com/fourjr/rainbot) - rainbot is a moderation bot that has robust automod and logging features. (today)
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete (1 day ago)
 - [DenizenScript/Denizen](https://github.com/DenizenScript/Denizen) - NPC and general Spigot scripting, using the Denizen Scripting Language! (1 day ago)
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library (1 day ago)
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (2 days ago)
-- [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i&#39;m creating (3 days ago)
 
 ## // metrics
 
