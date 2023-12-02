@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 2 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 3 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 2 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 4 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete (today)
-- [DenizenScript/Denizen](https://github.com/DenizenScript/Denizen) - NPC and general Spigot scripting, using the Denizen Scripting Language! (today)
-- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library (today)
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (1 day ago)
-- [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i&#39;m creating (2 days ago)
+- [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete (1 day ago)
+- [DenizenScript/Denizen](https://github.com/DenizenScript/Denizen) - NPC and general Spigot scripting, using the Denizen Scripting Language! (1 day ago)
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library (1 day ago)
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (2 days ago)
+- [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions) - extensions for spotify  i&#39;m creating (3 days ago)
 
 ## // metrics
 
