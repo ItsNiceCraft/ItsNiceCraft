@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension) (today)
 - [fourjr/rainbot](https://github.com/fourjr/rainbot) - rainbot is a moderation bot that has robust automod and logging features. (1 day ago)
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete (2 days ago)
 - [DenizenScript/Denizen](https://github.com/DenizenScript/Denizen) - NPC and general Spigot scripting, using the Denizen Scripting Language! (2 days ago)
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library (2 days ago)
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (3 days ago)
 
 ## // metrics
 
