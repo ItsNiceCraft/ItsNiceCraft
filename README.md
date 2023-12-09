@@ -11,11 +11,11 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/docs](https://github.com/ItsNiceCraft/docs) -  (today)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (1 month ago)
 - [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (1 month ago)
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (2 months ago)
 - [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (2 months ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (3 months ago)
 
 #### // recent releases I contributed to
 
@@ -44,7 +44,3 @@
 ## // metrics
 
 ![metrics](/github-metrics.svg)
-
-## // spotify
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31arjjzwnfx6gao7zcc7kmxvtipe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
