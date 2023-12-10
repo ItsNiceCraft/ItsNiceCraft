@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API (today)
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (1 day ago)
 - [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit&#39;s Modmail. (4 days ago)
 - [BlackWolfWoof/yagpdb-cc](https://github.com/BlackWolfWoof/yagpdb-cc) - Custom commands for the YAGPDB Discord bot🤖 (4 days ago)
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension) (1 week ago)
-- [fourjr/rainbot](https://github.com/fourjr/rainbot) - rainbot is a moderation bot that has robust automod and logging features. (1 week ago)
 
 ## // metrics
 
