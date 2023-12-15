@@ -31,13 +31,13 @@
 - [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (1 month ago)
 - [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (2 months ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (3 months ago)
-- [fix: fix dotnet workflow](https://github.com/kota69th/CreativeExpansionPack/pull/6) on [kota69th/CreativeExpansionPack](https://github.com/kota69th/CreativeExpansionPack) (3 months ago)
+- [fix: fix dotnet workflow](https://github.com/kota69th/CreativeExpansionPack/pull/6) on [kota69th/CreativeExpansionPack](https://github.com/kota69th/CreativeExpansionPack) (4 months ago)
 
 #### // recent stars
 
-- [shibbo/Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder. (1 day ago)
-- [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API (4 days ago)
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (5 days ago)
+- [shibbo/Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder. (2 days ago)
+- [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API (5 days ago)
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (6 days ago)
 - [modmail-dev/Modmail](https://github.com/modmail-dev/Modmail) - A Discord bot that functions as a shared inbox between staff and members, similar to Reddit&#39;s Modmail. (1 week ago)
 - [BlackWolfWoof/yagpdb-cc](https://github.com/BlackWolfWoof/yagpdb-cc) - Custom commands for the YAGPDB Discord bot🤖 (1 week ago)
 
