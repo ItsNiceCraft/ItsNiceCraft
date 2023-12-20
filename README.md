@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 2 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 3 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 1 month ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 5 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (2 days ago)
-- [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft (3 days ago)
-- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (3 days ago)
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (3 days ago)
-- [shibbo/Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder. (6 days ago)
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (3 days ago)
+- [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft (4 days ago)
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (4 days ago)
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (4 days ago)
+- [shibbo/Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder. (1 week ago)
 
 ## // metrics
 
