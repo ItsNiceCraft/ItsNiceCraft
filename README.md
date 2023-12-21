@@ -35,10 +35,10 @@
 
 #### // recent stars
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (3 days ago)
-- [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft (4 days ago)
-- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (4 days ago)
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (4 days ago)
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (4 days ago)
+- [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft (5 days ago)
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (5 days ago)
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (5 days ago)
 - [shibbo/Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder. (1 week ago)
 
 ## // metrics
