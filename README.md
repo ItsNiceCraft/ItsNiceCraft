@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop (today)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (6 days ago)
 - [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft (1 week ago)
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (1 week ago)
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (1 week ago)
-- [shibbo/Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder. (1 week ago)
 
 ## // metrics
 
