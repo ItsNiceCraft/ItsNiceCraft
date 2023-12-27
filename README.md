@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal (today)
 - [drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so! (2 days ago)
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop (4 days ago)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources (1 week ago)
 - [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft (1 week ago)
-- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (1 week ago)
 
 ## // metrics
 
