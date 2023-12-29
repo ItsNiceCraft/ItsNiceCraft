@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 4 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 1 month ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.3.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.3.1), 1 month ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 5 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (today)
-- [Kaenguruu24/OpenVoice](https://github.com/Kaenguruu24/OpenVoice) - Open source and self hosted Discord alternative. (today)
-- [jurialmunkey/skin.arctic.horizon.2](https://github.com/jurialmunkey/skin.arctic.horizon.2) -  (today)
-- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal (1 day ago)
-- [drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so! (3 days ago)
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (1 day ago)
+- [Kaenguruu24/OpenVoice](https://github.com/Kaenguruu24/OpenVoice) - Open source and self hosted Discord alternative. (1 day ago)
+- [jurialmunkey/skin.arctic.horizon.2](https://github.com/jurialmunkey/skin.arctic.horizon.2) -  (1 day ago)
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal (2 days ago)
+- [drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so! (4 days ago)
 
 ## // metrics
 
