@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (1 day ago)
-- [Kaenguruu24/OpenVoice](https://github.com/Kaenguruu24/OpenVoice) - Open source and self hosted Discord alternative. (1 day ago)
-- [jurialmunkey/skin.arctic.horizon.2](https://github.com/jurialmunkey/skin.arctic.horizon.2) -  (1 day ago)
-- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal (2 days ago)
-- [drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so! (4 days ago)
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (2 days ago)
+- [Kaenguruu24/OpenVoice](https://github.com/Kaenguruu24/OpenVoice) - Open source and self hosted Discord alternative. (2 days ago)
+- [jurialmunkey/skin.arctic.horizon.2](https://github.com/jurialmunkey/skin.arctic.horizon.2) -  (2 days ago)
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal (3 days ago)
+- [drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so! (5 days ago)
 
 ## // metrics
 
