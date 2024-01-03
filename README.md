@@ -35,10 +35,10 @@
 
 #### // recent stars
 
-- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (5 days ago)
-- [Kaenguruu24/OpenVoice](https://github.com/Kaenguruu24/OpenVoice) - Open source and self hosted Discord alternative. (5 days ago)
-- [jurialmunkey/skin.arctic.horizon.2](https://github.com/jurialmunkey/skin.arctic.horizon.2) -  (5 days ago)
-- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal (6 days ago)
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (6 days ago)
+- [Kaenguruu24/OpenVoice](https://github.com/Kaenguruu24/OpenVoice) - Open source and self hosted Discord alternative. (6 days ago)
+- [jurialmunkey/skin.arctic.horizon.2](https://github.com/jurialmunkey/skin.arctic.horizon.2) -  (6 days ago)
+- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal (1 week ago)
 - [drHyperion451/does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so! (1 week ago)
 
 ## // metrics
