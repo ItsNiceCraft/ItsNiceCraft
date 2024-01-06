@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [booksaw/BetterTeams](https://github.com/booksaw/BetterTeams) - Create teams to fight to be the best (Minecraft Plugin)  (today)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (today)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (1 day ago)
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (1 week ago)
 - [Kaenguruu24/OpenVoice](https://github.com/Kaenguruu24/OpenVoice) - Open source and self hosted Discord alternative. (1 week ago)
-- [jurialmunkey/skin.arctic.horizon.2](https://github.com/jurialmunkey/skin.arctic.horizon.2) -  (1 week ago)
-- [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal (1 week ago)
 
 ## // metrics
 
