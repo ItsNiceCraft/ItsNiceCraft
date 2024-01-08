@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows (today)
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (1 day ago)
 - [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher (1 day ago)
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server (1 day ago)
 - [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (1 day ago)
-- [booksaw/BetterTeams](https://github.com/booksaw/BetterTeams) - Create teams to fight to be the best (Minecraft Plugin)  (2 days ago)
 
 ## // metrics
 
