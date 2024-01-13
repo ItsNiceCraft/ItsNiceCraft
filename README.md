@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (today)
 - [andrei1058/BedWars1058](https://github.com/andrei1058/BedWars1058) - A minecraft minigame where you have to defend your bed and destroy the others. Once your bed is destroyed, you cannot respawn. (1 day ago)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. (1 day ago)
 - [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs &amp; features go here: https://greenshot.atlassian.net or look for information on: (3 days ago)
 - [Rosewood-Development/RoseLoot](https://github.com/Rosewood-Development/RoseLoot) - A highly configurable custom loot plugin allowing the loot manipulation of mobs, blocks, fishing, chests, piglin bartering, advancements, and archaeology! (3 days ago)
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. (3 days ago)
 
 ## // metrics
 
