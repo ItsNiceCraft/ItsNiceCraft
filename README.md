@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (today)
 - [ajgeiss0702/ajQueue](https://github.com/ajgeiss0702/ajQueue) - Add a queue for your servers when they are restarting or full! (1 day ago)
 - [IntellectualSites/HoloPlots](https://github.com/IntellectualSites/HoloPlots) - Holograms for PlotSquared (1 day ago)
 - [LeonMangler/SuperVanish](https://github.com/LeonMangler/SuperVanish) - Allows server admins to be completely invisible and undetectable for other players (1 day ago)
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. (2 days ago)
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (3 days ago)
 
 ## // metrics
 
