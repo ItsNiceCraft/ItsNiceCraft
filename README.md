@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed. (today)
+- [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android (today)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
 - [ajgeiss0702/ajQueue](https://github.com/ajgeiss0702/ajQueue) - Add a queue for your servers when they are restarting or full! (2 days ago)
 - [IntellectualSites/HoloPlots](https://github.com/IntellectualSites/HoloPlots) - Holograms for PlotSquared (2 days ago)
-- [LeonMangler/SuperVanish](https://github.com/LeonMangler/SuperVanish) - Allows server admins to be completely invisible and undetectable for other players (2 days ago)
-- [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers. (3 days ago)
 
 ## // metrics
 
