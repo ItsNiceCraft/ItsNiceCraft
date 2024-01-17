@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (today)
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed. (today)
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android (today)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
 - [ajgeiss0702/ajQueue](https://github.com/ajgeiss0702/ajQueue) - Add a queue for your servers when they are restarting or full! (2 days ago)
-- [IntellectualSites/HoloPlots](https://github.com/IntellectualSites/HoloPlots) - Holograms for PlotSquared (2 days ago)
 
 ## // metrics
 
