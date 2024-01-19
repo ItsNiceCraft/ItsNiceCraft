@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.4.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.4.2), 5 days ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.4.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.4.2), 6 days ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 1 month ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 6 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (today)
-- [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing &amp; sharing code. (today)
-- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game (today)
-- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (today)
-- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives. (today)
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (1 day ago)
+- [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing &amp; sharing code. (1 day ago)
+- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game (1 day ago)
+- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (1 day ago)
+- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives. (1 day ago)
 
 ## // metrics
 
