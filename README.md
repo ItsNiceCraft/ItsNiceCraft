@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (today)
+- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (today)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (1 day ago)
 - [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing &amp; sharing code. (1 day ago)
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game (1 day ago)
-- [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server (1 day ago)
-- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives. (1 day ago)
 
 ## // metrics
 
