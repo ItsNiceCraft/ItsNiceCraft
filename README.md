@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (today)
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (today)
 - [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (1 day ago)
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (1 day ago)
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (2 days ago)
-- [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing &amp; sharing code. (2 days ago)
 
 ## // metrics
 
