@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.4.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.4.2), 6 days ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.4.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.4.2), 1 week ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 1 month ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 6 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (today)
-- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (today)
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (1 day ago)
-- [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing &amp; sharing code. (1 day ago)
-- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game (1 day ago)
+- [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (1 day ago)
+- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (1 day ago)
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (2 days ago)
+- [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing &amp; sharing code. (2 days ago)
+- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game (2 days ago)
 
 ## // metrics
 
