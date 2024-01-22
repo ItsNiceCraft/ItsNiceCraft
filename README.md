@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (today)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (2 days ago)
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (2 days ago)
 - [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (3 days ago)
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (3 days ago)
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you. (4 days ago)
 
 ## // metrics
 
