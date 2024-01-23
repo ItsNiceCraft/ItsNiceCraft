@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! (today)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 day ago)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (3 days ago)
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (3 days ago)
 - [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (4 days ago)
-- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (4 days ago)
 
 ## // metrics
 
