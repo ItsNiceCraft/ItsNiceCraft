@@ -12,7 +12,7 @@
 #### // recent contributions
 
 - [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (2 weeks ago)
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (2 months ago)
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (3 months ago)
 - [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (3 months ago)
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (3 months ago)
 - [ItsNiceCraft/itsnicecraft.github.io](https://github.com/ItsNiceCraft/itsnicecraft.github.io) -  (4 months ago)
@@ -28,18 +28,18 @@
 #### // recent pull requests
 
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (2 weeks ago)
-- [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (2 months ago)
+- [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (3 months ago)
 - [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (3 months ago)
 - [docs: replace old github wiki with new page in readme](https://github.com/Cubxity/UnifiedMetrics/pull/107) on [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) (3 months ago)
 - [remove freegeoip.app and add ipbase.com](https://github.com/ripienaar/free-for-dev/pull/3042) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (4 months ago)
 
 #### // recent stars
 
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (today)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (2 days ago)
-- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (2 days ago)
-- [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (3 days ago)
-- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (3 days ago)
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 day ago)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (3 days ago)
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (3 days ago)
+- [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (4 days ago)
+- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper. (4 days ago)
 
 ## // metrics
 
