@@ -20,7 +20,7 @@
 #### // recent releases I contributed to
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.4.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.4.2), 1 week ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 1 month ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 6 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 6 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! (today)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 day ago)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (3 days ago)
-- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (3 days ago)
-- [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (4 days ago)
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! (1 day ago)
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (2 days ago)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (4 days ago)
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (4 days ago)
+- [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - &#34;That&#34; TAB plugin. (5 days ago)
 
 ## // metrics
 
