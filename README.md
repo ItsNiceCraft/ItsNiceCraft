@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (today)
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! (1 day ago)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (2 days ago)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (4 days ago)
-- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (4 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 day ago)
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! (2 days ago)
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (3 days ago)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (5 days ago)
+- [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG. (5 days ago)
 
 ## // metrics
 
