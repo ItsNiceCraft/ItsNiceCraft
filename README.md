@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - The best and simplest way to add placeholders to your server! - 1M&#43; Downloads - 2.5k&#43; Placeholders (today)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (today)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 day ago)
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! (2 days ago)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (3 days ago)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (5 days ago)
 
 ## // metrics
 
