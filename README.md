@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love (today)
 - [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - The best and simplest way to add placeholders to your server! - 1M&#43; Downloads - 2.5k&#43; Placeholders (2 days ago)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (2 days ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (3 days ago)
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! (4 days ago)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (5 days ago)
 
 ## // metrics
 
