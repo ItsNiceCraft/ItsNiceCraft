@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots. (today)
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love (1 day ago)
 - [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - The best and simplest way to add placeholders to your server! - 1M&#43; Downloads - 2.5k&#43; Placeholders (3 days ago)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (3 days ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (4 days ago)
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks! (5 days ago)
 
 ## // metrics
 
