@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots. (1 day ago)
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love (2 days ago)
-- [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - The best and simplest way to add placeholders to your server! - 1M&#43; Downloads - 2.5k&#43; Placeholders (4 days ago)
-- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (4 days ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (5 days ago)
+- [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots. (2 days ago)
+- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love (3 days ago)
+- [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) - The best and simplest way to add placeholders to your server! - 1M&#43; Downloads - 2.5k&#43; Placeholders (5 days ago)
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (5 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (6 days ago)
 
 ## // metrics
 
