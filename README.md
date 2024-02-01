@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (today)
 - [libraryaddict/LibsDisguises](https://github.com/libraryaddict/LibsDisguises) - Minecraft disguise plugin (today)
 - [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit. (today)
 - [SkinsRestorer/SkinsRestorerX](https://github.com/SkinsRestorer/SkinsRestorerX) - The most popular skin plugin for Minecraft (today)
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple&#39;s AirDrop. Fork of Snapdrop. (today)
-- [SapuSeven/BetterUntis](https://github.com/SapuSeven/BetterUntis) - An alternative mobile client for the Untis timetable system. (today)
 
 ## // metrics
 
