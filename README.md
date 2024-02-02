@@ -20,7 +20,7 @@
 #### // recent releases I contributed to
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.4.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.4.2), 2 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 4 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 1 month ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 2 months ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 6 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 7 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (today)
-- [libraryaddict/LibsDisguises](https://github.com/libraryaddict/LibsDisguises) - Minecraft disguise plugin (today)
-- [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit. (today)
-- [SkinsRestorer/SkinsRestorerX](https://github.com/SkinsRestorer/SkinsRestorerX) - The most popular skin plugin for Minecraft (today)
-- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple&#39;s AirDrop. Fork of Snapdrop. (today)
+- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (1 day ago)
+- [libraryaddict/LibsDisguises](https://github.com/libraryaddict/LibsDisguises) - Minecraft disguise plugin (1 day ago)
+- [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit. (1 day ago)
+- [SkinsRestorer/SkinsRestorerX](https://github.com/SkinsRestorer/SkinsRestorerX) - The most popular skin plugin for Minecraft (1 day ago)
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple&#39;s AirDrop. Fork of Snapdrop. (1 day ago)
 
 ## // metrics
 
