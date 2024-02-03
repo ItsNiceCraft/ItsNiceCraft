@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [MCRcortex/nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only) (today)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (today)
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (2 days ago)
 - [libraryaddict/LibsDisguises](https://github.com/libraryaddict/LibsDisguises) - Minecraft disguise plugin (2 days ago)
 - [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit. (2 days ago)
-- [SkinsRestorer/SkinsRestorerX](https://github.com/SkinsRestorer/SkinsRestorerX) - The most popular skin plugin for Minecraft (2 days ago)
 
 ## // metrics
 
