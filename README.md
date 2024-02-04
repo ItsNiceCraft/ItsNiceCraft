@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems) - Clean and Configurable. Your recipe viewer mod for 1.13&#43;. (today)
 - [MCRcortex/nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only) (1 day ago)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (1 day ago)
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (3 days ago)
 - [libraryaddict/LibsDisguises](https://github.com/libraryaddict/LibsDisguises) - Minecraft disguise plugin (3 days ago)
-- [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit. (3 days ago)
 
 ## // metrics
 
