@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [DecentSoftware-eu/DecentHolograms](https://github.com/DecentSoftware-eu/DecentHolograms) - A lightweight but powerful hologram plugin with many features and configuration options. (today)
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value. (1 day ago)
 - [shedaniel/RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems) - Clean and Configurable. Your recipe viewer mod for 1.13&#43;. (5 days ago)
 - [MCRcortex/nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only) (6 days ago)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (6 days ago)
-- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away (1 week ago)
 
 ## // metrics
 
