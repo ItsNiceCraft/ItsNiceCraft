@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop&#39;s app.asar (today)
 - [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers. (today)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (today)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (today)
 - [rockyhawk64/CommandPanels](https://github.com/rockyhawk64/CommandPanels) - Command Panels main Github page. Wiki Page Below: (today)
-- [DecentSoftware-eu/DecentHolograms](https://github.com/DecentSoftware-eu/DecentHolograms) - A lightweight but powerful hologram plugin with many features and configuration options. (1 day ago)
 
 ## // metrics
 
