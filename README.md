@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop&#39;s app.asar (today)
-- [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers. (today)
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (today)
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (today)
-- [rockyhawk64/CommandPanels](https://github.com/rockyhawk64/CommandPanels) - Command Panels main Github page. Wiki Page Below: (today)
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop&#39;s app.asar (1 day ago)
+- [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers. (1 day ago)
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (1 day ago)
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 day ago)
+- [rockyhawk64/CommandPanels](https://github.com/rockyhawk64/CommandPanels) - Command Panels main Github page. Wiki Page Below: (1 day ago)
 
 ## // metrics
 
