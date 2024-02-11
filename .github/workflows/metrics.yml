@@ -31,12 +31,12 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           config_twemoji: yes
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: public
+          # plugin_activity: yes
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: public
           plugin_calendar: yes
           plugin_calendar_limit: 2
           plugin_habits: yes
