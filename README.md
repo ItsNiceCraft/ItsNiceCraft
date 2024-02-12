@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.4.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.4.2), 4 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.4.2](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.4.2), 1 month ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 1 month ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 2 months ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 7 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop&#39;s app.asar (1 day ago)
-- [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers. (1 day ago)
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (1 day ago)
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 day ago)
-- [rockyhawk64/CommandPanels](https://github.com/rockyhawk64/CommandPanels) - Command Panels main Github page. Wiki Page Below: (1 day ago)
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop&#39;s app.asar (2 days ago)
+- [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers. (2 days ago)
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (2 days ago)
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (2 days ago)
+- [rockyhawk64/CommandPanels](https://github.com/rockyhawk64/CommandPanels) - Command Panels main Github page. Wiki Page Below: (2 days ago)
 
 ## // metrics
 
