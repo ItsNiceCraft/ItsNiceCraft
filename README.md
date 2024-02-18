@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Johannes11833/rclone_python](https://github.com/Johannes11833/rclone_python) - rclone python wrapper (today)
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop&#39;s app.asar (1 week ago)
 - [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers. (1 week ago)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (1 week ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 week ago)
-- [rockyhawk64/CommandPanels](https://github.com/rockyhawk64/CommandPanels) - Command Panels main Github page. Wiki Page Below: (1 week ago)
 
 ## // metrics
 
