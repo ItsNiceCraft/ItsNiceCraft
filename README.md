@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself. (today)
+- [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - Enjoy games with your friends as if you were on a LAN. (today)
 - [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android. (2 days ago)
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer. (3 days ago)
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC. (3 days ago)
-- [oraxen/oraxen](https://github.com/oraxen/oraxen) - Oraxen is a minecraft plugin that allows to easily use Minecraft 1.14 features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath) and has an extensible API. (4 days ago)
-- [Johannes11833/rclone_python](https://github.com/Johannes11833/rclone_python) - rclone python wrapper (4 days ago)
 
 ## // metrics
 
