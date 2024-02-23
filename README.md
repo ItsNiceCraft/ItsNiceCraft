@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (2 weeks ago)
+- [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (3 weeks ago)
 - [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (1 month ago)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (4 months ago)
 - [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (4 months ago)
@@ -27,7 +27,7 @@
 
 #### // recent pull requests
 
-- [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (2 weeks ago)
+- [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (3 weeks ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (1 month ago)
 - [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (4 months ago)
 - [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/spicetify-docs/pull/110) on [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) (4 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself. (today)
-- [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - Enjoy games with your friends as if you were on a LAN. (today)
-- [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android. (2 days ago)
-- [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer. (3 days ago)
-- [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC. (3 days ago)
+- [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself. (1 day ago)
+- [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - Enjoy games with your friends as if you were on a LAN. (1 day ago)
+- [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android. (3 days ago)
+- [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer. (4 days ago)
+- [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC. (4 days ago)
 
 ## // metrics
 
