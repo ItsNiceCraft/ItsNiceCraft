@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (today)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (today)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (today)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
 - [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux! (today)
-- [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager (today)
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (3 days ago)
 
 ## // metrics
 
