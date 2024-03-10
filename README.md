@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux! (today)
+- [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager (today)
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (3 days ago)
 - [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations. (4 days ago)
 - [dsdanielpark/Gemini-API](https://github.com/dsdanielpark/Gemini-API) - The unofficial python package that returns response of Google Gemini through cookie values. (1 week ago)
-- [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance (2 weeks ago)
-- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (2 weeks ago)
 
 ## // metrics
 
