@@ -11,11 +11,11 @@
 
 #### // recent contributions
 
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (today)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (1 month ago)
 - [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (2 months ago)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (4 months ago)
 - [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (4 months ago)
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box. (5 months ago)
 
 #### // recent releases I contributed to
 
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (today)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
 - [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux! (today)
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager (today)
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. (3 days ago)
-- [dvx/lofi](https://github.com/dvx/lofi) - 🎵🔉 A mini Spotify player with WebGL visualizations. (4 days ago)
 
 ## // metrics
 
