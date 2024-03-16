@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (5 days ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (6 days ago)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (1 month ago)
 - [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (2 months ago)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (4 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&#39;s Speedtest service. (1 day ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (5 days ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (5 days ago)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (5 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&#39;s Speedtest service. (2 days ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (6 days ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (6 days ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (6 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
 
 ## // metrics
 
