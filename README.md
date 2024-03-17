@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers. (today)
+- [TeamGalacticraft/Galacticraft](https://github.com/TeamGalacticraft/Galacticraft) - The classic space mod, rewritten for modern versions of Minecraft. (today)
 - [SethBling/cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft (1 day ago)
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla&#39;s Speedtest service. (3 days ago)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 week ago)
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 week ago)
 
 ## // metrics
 
