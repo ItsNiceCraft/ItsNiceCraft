@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods! (today)
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it&#39;s available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. (today)
-- [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers. (today)
-- [TeamGalacticraft/Galacticraft](https://github.com/TeamGalacticraft/Galacticraft) - The classic space mod, rewritten for modern versions of Minecraft. (today)
-- [SethBling/cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft (1 day ago)
+- [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods! (1 day ago)
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it&#39;s available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. (1 day ago)
+- [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers. (1 day ago)
+- [TeamGalacticraft/Galacticraft](https://github.com/TeamGalacticraft/Galacticraft) - The classic space mod, rewritten for modern versions of Minecraft. (1 day ago)
+- [SethBling/cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft (2 days ago)
 
 ## // metrics
 
