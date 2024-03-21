@@ -15,11 +15,11 @@
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (1 month ago)
 - [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (2 months ago)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (4 months ago)
-- [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (4 months ago)
+- [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs) - Documentation website for spicetify-cli. (5 months ago)
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.5.3](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.5.3), 1 week ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.5.3](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.5.3), 2 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([4.4.0](https://github.com/smuddgge/Leaf/releases/tag/4.4.0), 3 months ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 8 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. (2 days ago)
-- [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) - A modified small client-side Minecraft mod that adds various configurable tweaks - plus some more (2 days ago)
-- [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a (2 days ago)
-- [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods! (3 days ago)
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it&#39;s available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. (3 days ago)
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. (3 days ago)
+- [Andrews54757/tweakfork](https://github.com/Andrews54757/tweakfork) - A modified small client-side Minecraft mod that adds various configurable tweaks - plus some more (3 days ago)
+- [kb-1000/no-telemetry](https://github.com/kb-1000/no-telemetry) - Disable the telemetry introduced in 21w38a (3 days ago)
+- [TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) - A menu for, you guessed it, mods! (4 days ago)
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it&#39;s available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. (4 days ago)
 
 ## // metrics
 
