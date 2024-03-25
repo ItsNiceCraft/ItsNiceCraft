@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style. (today)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (today)
 - [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops. (today)
 - [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC) - SMC emulator layer (today)
 - [corpnewt/GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - Py script that uses acidanthera&#39;s macserial to generate SMBIOS and optionally saves them to a plist. (today)
-- [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree) - Cross platform GUI plist editor written in python. (today)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
 
 ## // metrics
 
