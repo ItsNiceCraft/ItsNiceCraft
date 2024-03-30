@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design &amp; prototyping platform (today)
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications. (1 day ago)
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (2 days ago)
 - [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) - [Forge Mod] Building Tools and Aesthetic Technology (2 days ago)
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi (4 days ago)
-- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style. (5 days ago)
 
 ## // metrics
 
