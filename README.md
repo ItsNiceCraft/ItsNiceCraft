@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager (today)
-- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions (today)
-- [Snownee/Jade](https://github.com/Snownee/Jade) - Minecraft mod that shows what you are looking at. (Hwyla fork) (1 day ago)
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design &amp; prototyping platform (1 day ago)
-- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications. (2 days ago)
+- [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager (1 day ago)
+- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions (1 day ago)
+- [Snownee/Jade](https://github.com/Snownee/Jade) - Minecraft mod that shows what you are looking at. (Hwyla fork) (2 days ago)
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design &amp; prototyping platform (2 days ago)
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications. (3 days ago)
 
 ## // metrics
 
