@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Britmoji/tiktxk](https://github.com/Britmoji/tiktxk) - tiktxk will rock your s/o/x off — this is war you &#34;hackerman&#34; 🤓 (today)
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer (today)
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) -  (today)
 - [thilojaeggi/WinGetty](https://github.com/thilojaeggi/WinGetty) - An open source REST Backend for creating a private WinGet Repo without having to rely on cloud dependencies. (today)
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers (today)
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (1 day ago)
 
 ## // metrics
 
