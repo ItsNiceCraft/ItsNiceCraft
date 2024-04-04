@@ -1,11 +1,11 @@
 👋 German Developer
 
 ## // languages
-![languages](https://skillicons.dev/icons?i=py,bash,java)
+![languages](https://skillicons.dev/icons?i=py,go,bash)
 
 ## // tools
 
-![tools](https://skillicons.dev/icons?i=androidstudio,aws,azure,cloudflare,discord,docker,figma,fediverse,gcp,git,github,githubactions,gitlab,grafana,idea,jenkins,linux,mastodon,mongodb,nodejs,prometheus,raspberrypi,selenium,svg,twitter,vercel,visualstudio,vscode)
+![tools](https://skillicons.dev/icons?i=androidstudio,arch,aws,azure,cloudflare,discord,docker,figma,fediverse,gcp,git,github,githubactions,gitlab,grafana,idea,jenkins,linux,mastodon,mongodb,nodejs,prometheus,raspberrypi,selenium,svg,twitter,workers,vercel,visualstudio,vscode)
 
 ## // contributions
 
