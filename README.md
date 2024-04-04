@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡ (today)
 - [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs (1 day ago)
 - [Britmoji/tiktxk](https://github.com/Britmoji/tiktxk) - tiktxk will rock your s/o/x off — this is war you &#34;hackerman&#34; 🤓 (2 days ago)
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer (2 days ago)
 - [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) -  (2 days ago)
-- [thilojaeggi/WinGetty](https://github.com/thilojaeggi/WinGetty) - An open source REST Backend for creating a private WinGet Repo without having to rely on cloud dependencies. (2 days ago)
 
 ## // metrics
 
