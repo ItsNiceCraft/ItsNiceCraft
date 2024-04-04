@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡ (today)
 - [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs (1 day ago)
 - [Britmoji/tiktxk](https://github.com/Britmoji/tiktxk) - tiktxk will rock your s/o/x off — this is war you &#34;hackerman&#34; 🤓 (2 days ago)
-- [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer (2 days ago)
 
 ## // metrics
 
