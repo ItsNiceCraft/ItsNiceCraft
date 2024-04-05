@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [intergrav/devins-badges](https://github.com/intergrav/devins-badges) - Beautifully designed badges for many services (today)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (today)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (today)
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (today)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (1 day ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
 
 ## // metrics
 
