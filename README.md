@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [pop4959/Chunky](https://github.com/pop4959/Chunky) - Pre-generates chunks, quickly, efficiently, and safely. (today)
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) -  (1 day ago)
 - [intergrav/devins-badges](https://github.com/intergrav/devins-badges) - Beautifully designed badges for many services (1 day ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 day ago)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 day ago)
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library. (1 day ago)
 
 ## // metrics
 
