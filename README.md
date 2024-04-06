@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (today)
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (today)
+- [curtisf/logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users. (today)
+- [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) -  A server-side logging mod for fabric 1.17&#43; (today)
 - [pop4959/Chunky](https://github.com/pop4959/Chunky) - Pre-generates chunks, quickly, efficiently, and safely. (today)
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) -  (1 day ago)
-- [intergrav/devins-badges](https://github.com/intergrav/devins-badges) - Beautifully designed badges for many services (1 day ago)
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 day ago)
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (1 day ago)
 
 ## // metrics
 
