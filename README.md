@@ -11,10 +11,10 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (today)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (1 day ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (4 days ago)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (2 months ago)
-- [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (2 months ago)
+- [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (3 months ago)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (5 months ago)
 
 #### // recent releases I contributed to
@@ -27,7 +27,7 @@
 
 #### // recent pull requests
 
-- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (3 days ago)
+- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (4 days ago)
 - [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (2 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (3 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (5 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (today)
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (today)
-- [curtisf/logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users. (today)
-- [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) -  A server-side logging mod for fabric 1.17&#43; (today)
-- [pop4959/Chunky](https://github.com/pop4959/Chunky) - Pre-generates chunks, quickly, efficiently, and safely. (today)
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (1 day ago)
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (1 day ago)
+- [curtisf/logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users. (1 day ago)
+- [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) -  A server-side logging mod for fabric 1.17&#43; (1 day ago)
+- [pop4959/Chunky](https://github.com/pop4959/Chunky) - Pre-generates chunks, quickly, efficiently, and safely. (1 day ago)
 
 ## // metrics
 
