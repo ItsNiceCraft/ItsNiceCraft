@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [pyoncord/Pyoncord](https://github.com/pyoncord/Pyoncord) - A (soon) performant client mod for Discord mobile (today)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (1 day ago)
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (1 day ago)
 - [curtisf/logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users. (1 day ago)
 - [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) -  A server-side logging mod for fabric 1.17&#43; (1 day ago)
-- [pop4959/Chunky](https://github.com/pop4959/Chunky) - Pre-generates chunks, quickly, efficiently, and safely. (1 day ago)
 
 ## // metrics
 
