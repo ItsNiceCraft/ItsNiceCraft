@@ -11,8 +11,8 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (1 day ago)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (4 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (2 days ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (5 days ago)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (2 months ago)
 - [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) - WiiLink Wi-Fi Connection aims to be an open source server replacement for Nintendo Wi-Fi Connection. (3 months ago)
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more! (5 months ago)
@@ -27,7 +27,7 @@
 
 #### // recent pull requests
 
-- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (4 days ago)
+- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (5 days ago)
 - [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (2 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (3 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (5 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [pyoncord/Pyoncord](https://github.com/pyoncord/Pyoncord) - A (soon) performant client mod for Discord mobile (today)
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (1 day ago)
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (1 day ago)
-- [curtisf/logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users. (1 day ago)
-- [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) -  A server-side logging mod for fabric 1.17&#43; (1 day ago)
+- [pyoncord/Pyoncord](https://github.com/pyoncord/Pyoncord) - A (soon) performant client mod for Discord mobile (1 day ago)
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (2 days ago)
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (2 days ago)
+- [curtisf/logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users. (2 days ago)
+- [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger) -  A server-side logging mod for fabric 1.17&#43; (2 days ago)
 
 ## // metrics
 
