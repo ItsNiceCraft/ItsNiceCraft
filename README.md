@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [py-mine/mcproto](https://github.com/py-mine/mcproto) - Library providing easy interactions with minecraft protocol (today)
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (today)
 - [TheOnlyWayUp/Artificial-Whitelist](https://github.com/TheOnlyWayUp/Artificial-Whitelist) - 🕵️🔐 Implement a whitelist (without OP) to prevent malicious users from entering a public server. Enforce access-control, and manage the system via an API, or Discord Bot. Developer-Friendly, Docker-Compose. (today)
 - [ViaVersion/VIAaaS](https://github.com/ViaVersion/VIAaaS) - ViaVersion as a Service - standalone ViaVersion proxy (today)
 - [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay (today)
-- [maruohon/malilib](https://github.com/maruohon/malilib) - Library mod for masa&#39;s client-side Minecraft mods (today)
 
 ## // metrics
 
