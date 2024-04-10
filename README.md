@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [maruohon/malilib](https://github.com/maruohon/malilib) - Library mod for masa&#39;s client-side Minecraft mods (today)
+- [LOOHP/Limbo](https://github.com/LOOHP/Limbo) - Standalone Limbo Minecraft Server (Currently 1.20.4) (today)
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal. (2 days ago)
 - [pyoncord/Pyoncord](https://github.com/pyoncord/Pyoncord) - A (soon) performant client mod for Discord mobile (3 days ago)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (4 days ago)
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (4 days ago)
-- [curtisf/logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users. (4 days ago)
 
 ## // metrics
 
