@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (today)
+- [plausible/community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition (today)
 - [Vallerian/MelodyMine](https://github.com/Vallerian/MelodyMine) - Minecraft Server Voice Plugin (today)
 - [py-mine/mcproto](https://github.com/py-mine/mcproto) - Library providing easy interactions with minecraft protocol (1 day ago)
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (1 day ago)
-- [TheOnlyWayUp/Artificial-Whitelist](https://github.com/TheOnlyWayUp/Artificial-Whitelist) - 🕵️🔐 Implement a whitelist (without OP) to prevent malicious users from entering a public server. Enforce access-control, and manage the system via an API, or Discord Bot. Developer-Friendly, Docker-Compose. (1 day ago)
-- [ViaVersion/VIAaaS](https://github.com/ViaVersion/VIAaaS) - ViaVersion as a Service - standalone ViaVersion proxy (1 day ago)
 
 ## // metrics
 
