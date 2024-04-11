@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (4 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (5 days ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 week ago)
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (1 week ago)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (2 months ago)
@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.0.1](https://github.com/smuddgge/Leaf/releases/tag/5.0.1), 2 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.0.1](https://github.com/smuddgge/Leaf/releases/tag/5.0.1), 3 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.5.5](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.5.5), 2 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 9 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [py-mine/mcproto](https://github.com/py-mine/mcproto) - Library providing easy interactions with minecraft protocol (today)
-- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (today)
-- [TheOnlyWayUp/Artificial-Whitelist](https://github.com/TheOnlyWayUp/Artificial-Whitelist) - 🕵️🔐 Implement a whitelist (without OP) to prevent malicious users from entering a public server. Enforce access-control, and manage the system via an API, or Discord Bot. Developer-Friendly, Docker-Compose. (today)
-- [ViaVersion/VIAaaS](https://github.com/ViaVersion/VIAaaS) - ViaVersion as a Service - standalone ViaVersion proxy (today)
-- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay (today)
+- [py-mine/mcproto](https://github.com/py-mine/mcproto) - Library providing easy interactions with minecraft protocol (1 day ago)
+- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (1 day ago)
+- [TheOnlyWayUp/Artificial-Whitelist](https://github.com/TheOnlyWayUp/Artificial-Whitelist) - 🕵️🔐 Implement a whitelist (without OP) to prevent malicious users from entering a public server. Enforce access-control, and manage the system via an API, or Discord Bot. Developer-Friendly, Docker-Compose. (1 day ago)
+- [ViaVersion/VIAaaS](https://github.com/ViaVersion/VIAaaS) - ViaVersion as a Service - standalone ViaVersion proxy (1 day ago)
+- [ViaVersion/ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay (1 day ago)
 
 ## // metrics
 
