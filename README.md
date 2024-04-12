@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (today)
 - [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator (today)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 day ago)
 - [plausible/community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition (1 day ago)
 - [Vallerian/MelodyMine](https://github.com/Vallerian/MelodyMine) - Minecraft Server Voice Plugin (1 day ago)
-- [py-mine/mcproto](https://github.com/py-mine/mcproto) - Library providing easy interactions with minecraft protocol (2 days ago)
 
 ## // metrics
 
