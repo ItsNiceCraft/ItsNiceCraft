@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (today)
 - [dessant/repo-lockdown](https://github.com/dessant/repo-lockdown) - GitHub Action that immediately closes and locks issues and pull requests (1 day ago)
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs. (1 day ago)
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (1 day ago)
 - [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator (1 day ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (2 days ago)
 
 ## // metrics
 
