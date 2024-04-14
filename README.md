@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes) - Lets you use capes from OptiFine, LabyMod and other cape mods (today)
+- [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose (today)
+- [Johni0702/bobby](https://github.com/Johni0702/bobby) -  (today)
 - [surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views (today)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (today)
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. (today)
-- [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry (today)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 day ago)
 
 ## // metrics
 
