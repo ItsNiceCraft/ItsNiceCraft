@@ -13,8 +13,8 @@
 
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) -  (today)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (3 days ago)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 week ago)
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (1 week ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 week ago)
 - [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) - An attempt to make a private server for all jackbox games (2 months ago)
 
 #### // recent releases I contributed to
