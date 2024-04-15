@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs. (today)
+- [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s). (today)
 - [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes) - Lets you use capes from OptiFine, LabyMod and other cape mods (1 day ago)
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose (1 day ago)
 - [Johni0702/bobby](https://github.com/Johni0702/bobby) -  (1 day ago)
-- [surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views (1 day ago)
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (1 day ago)
 
 ## // metrics
 
