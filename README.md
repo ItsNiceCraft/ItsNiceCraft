@@ -19,11 +19,11 @@
 
 #### // recent releases I contributed to
 
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-1](https://github.com/1Password/for-open-source/releases/tag/processor-1), today) - Get a 1Password team account for free to support your open source initiatives!
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.0.1](https://github.com/smuddgge/Leaf/releases/tag/5.0.1), 1 week ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.5.5](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.5.5), 3 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone/releases/tag/v0.5.0-beta.2), 9 months ago) - A free, open source server hosting tool for Minecraft and other multiplayer games
-- [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 9 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
 
 #### // recent pull requests
 
