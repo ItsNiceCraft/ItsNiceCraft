@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [golang/go](https://github.com/golang/go) - The Go programming language (today)
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs. (2 days ago)
 - [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s). (2 days ago)
 - [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes) - Lets you use capes from OptiFine, LabyMod and other cape mods (3 days ago)
 - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose (3 days ago)
-- [Johni0702/bobby](https://github.com/Johni0702/bobby) -  (3 days ago)
 
 ## // metrics
 
