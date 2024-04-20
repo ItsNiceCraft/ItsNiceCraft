@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media (2 days ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (3 days ago)
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs. (5 days ago)
 - [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s). (5 days ago)
-- [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes) - Lets you use capes from OptiFine, LabyMod and other cape mods (6 days ago)
 
 ## // metrics
 
