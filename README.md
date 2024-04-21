@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord. (today)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media (3 days ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (4 days ago)
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs. (6 days ago)
-- [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s). (6 days ago)
 
 ## // metrics
 
