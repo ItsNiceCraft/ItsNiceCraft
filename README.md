@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) -  (5 days ago)
+- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) -  (6 days ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (1 week ago)
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (2 weeks ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (2 weeks ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects. (today)
-- [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord. (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
-- [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media (4 days ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (5 days ago)
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 day ago)
+- [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord. (2 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (3 days ago)
+- [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media (5 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (6 days ago)
 
 ## // metrics
 
