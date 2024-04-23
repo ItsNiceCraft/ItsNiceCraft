@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [OhMyGuus/BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - Free, open, Among Us Proximity Chat (today)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 day ago)
 - [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord. (2 days ago)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (3 days ago)
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media (5 days ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (6 days ago)
 
 ## // metrics
 
