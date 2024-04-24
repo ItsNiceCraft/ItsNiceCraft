@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker (today)
 - [OhMyGuus/BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - Free, open, Among Us Proximity Chat (1 day ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects. (2 days ago)
 - [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord. (3 days ago)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (4 days ago)
-- [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media (6 days ago)
 
 ## // metrics
 
