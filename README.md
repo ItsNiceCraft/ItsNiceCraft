@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (today)
-- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (today)
-- [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (today)
-- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (today)
-- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile (2 days ago)
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (1 day ago)
+- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (1 day ago)
+- [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (1 day ago)
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (1 day ago)
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile (3 days ago)
 
 ## // metrics
 
