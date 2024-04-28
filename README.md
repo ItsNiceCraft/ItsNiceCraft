@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (today)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 day ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) -  (1 week ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (3 weeks ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (1 day ago)
-- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (1 day ago)
-- [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (1 day ago)
-- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (1 day ago)
-- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile (3 days ago)
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (2 days ago)
+- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (2 days ago)
+- [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (2 days ago)
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (2 days ago)
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile (4 days ago)
 
 ## // metrics
 
