@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 day ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 days ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) -  (1 week ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (3 weeks ago)
@@ -19,8 +19,8 @@
 
 #### // recent releases I contributed to
 
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-1](https://github.com/1Password/for-open-source/releases/tag/processor-1), 1 week ago) - Get a 1Password team account for free to support your open source initiatives!
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.0.1](https://github.com/smuddgge/Leaf/releases/tag/5.0.1), 2 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-1](https://github.com/1Password/for-open-source/releases/tag/processor-1), 2 weeks ago) - Get a 1Password team account for free to support your open source initiatives!
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.0.1](https://github.com/smuddgge/Leaf/releases/tag/5.0.1), 3 weeks ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v6.5.5](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v6.5.5), 1 month ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Lodestone-Team/lodestone_core](https://github.com/Lodestone-Team/lodestone_core) ([v0.5.0-beta.2](https://github.com/Lodestone-Team/lodestone_core/releases/tag/v0.5.0-beta.2), 10 months ago) - The backend for Lodestone, A free, open source server hosting tool for Minecraft and other multiplayers
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (2 days ago)
-- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (2 days ago)
-- [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (2 days ago)
-- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (2 days ago)
-- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile (4 days ago)
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (3 days ago)
+- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (3 days ago)
+- [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (3 days ago)
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (3 days ago)
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile (5 days ago)
 
 ## // metrics
 
