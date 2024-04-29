@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [nothub/mrpack-install](https://github.com/nothub/mrpack-install) - Modrinth Modpack server deployment (today)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (3 days ago)
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (3 days ago)
 - [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (3 days ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (3 days ago)
-- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile (5 days ago)
 
 ## // metrics
 
