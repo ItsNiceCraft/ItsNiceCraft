@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (today)
 - [nothub/mrpack-install](https://github.com/nothub/mrpack-install) - Modrinth Modpack server deployment (2 days ago)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (5 days ago)
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (5 days ago)
 - [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (5 days ago)
-- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (5 days ago)
 
 ## // metrics
 
