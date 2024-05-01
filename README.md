@@ -11,11 +11,11 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 days ago)
-- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) -  (1 week ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (4 days ago)
+- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) -  (2 weeks ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 weeks ago)
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (3 weeks ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (4 weeks ago)
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (4 weeks ago)
 
 #### // recent releases I contributed to
 
@@ -27,7 +27,7 @@
 
 #### // recent pull requests
 
-- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (3 weeks ago)
+- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (4 weeks ago)
 - [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (2 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (3 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (6 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [nothub/mrpack-install](https://github.com/nothub/mrpack-install) - Modrinth Modpack server deployment (1 day ago)
-- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (4 days ago)
-- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (4 days ago)
-- [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (4 days ago)
-- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (4 days ago)
+- [nothub/mrpack-install](https://github.com/nothub/mrpack-install) - Modrinth Modpack server deployment (2 days ago)
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (5 days ago)
+- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (5 days ago)
+- [xfl03/MCCustomSkinLoader](https://github.com/xfl03/MCCustomSkinLoader) - Customize Skin, Cape and Elytra in Minecraft 1.8-1.20.2 (5 days ago)
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (5 days ago)
 
 ## // metrics
 
