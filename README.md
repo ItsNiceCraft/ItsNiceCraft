@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation) - Autostart and stop minecraft-server when players join/leave (today)
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search &amp; app launcher for Windows with community-made plugins (today)
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (today)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (today)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C. (today)
-- [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example (1 day ago)
 
 ## // metrics
 
