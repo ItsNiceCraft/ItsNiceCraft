@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (today)
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C. (today)
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example (1 day ago)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 day ago)
 - [nothub/mrpack-install](https://github.com/nothub/mrpack-install) - Modrinth Modpack server deployment (3 days ago)
-- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed (6 days ago)
-- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself (6 days ago)
 
 ## // metrics
 
