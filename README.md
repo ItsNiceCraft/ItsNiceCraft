@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (6 days ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 week ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) -  (2 weeks ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - command line utility that searches for available domain names using a list of TLDs. (3 weeks ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 month ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [Garulf/MC-Multi-Launcher](https://github.com/Garulf/MC-Multi-Launcher) -  (today)
-- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (today)
-- [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation) - Autostart and stop minecraft-server when players join/leave (1 day ago)
-- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search &amp; app launcher for Windows with community-made plugins (1 day ago)
-- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (1 day ago)
+- [Garulf/MC-Multi-Launcher](https://github.com/Garulf/MC-Multi-Launcher) -  (1 day ago)
+- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (1 day ago)
+- [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation) - Autostart and stop minecraft-server when players join/leave (2 days ago)
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search &amp; app launcher for Windows with community-made plugins (2 days ago)
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar (2 days ago)
 
 ## // metrics
 
