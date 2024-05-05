@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites (today)
-- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (today)
-- [Garulf/MC-Multi-Launcher](https://github.com/Garulf/MC-Multi-Launcher) -  (1 day ago)
-- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (1 day ago)
-- [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation) - Autostart and stop minecraft-server when players join/leave (2 days ago)
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites (1 day ago)
+- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (1 day ago)
+- [Garulf/MC-Multi-Launcher](https://github.com/Garulf/MC-Multi-Launcher) -  (2 days ago)
+- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (2 days ago)
+- [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation) - Autostart and stop minecraft-server when players join/leave (3 days ago)
 
 ## // metrics
 
