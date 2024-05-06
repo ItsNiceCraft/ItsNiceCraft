@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (today)
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites (2 days ago)
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (2 days ago)
 - [Garulf/MC-Multi-Launcher](https://github.com/Garulf/MC-Multi-Launcher) -  (3 days ago)
 - [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (3 days ago)
-- [gekware/minecraft-server-hibernation](https://github.com/gekware/minecraft-server-hibernation) - Autostart and stop minecraft-server when players join/leave (4 days ago)
 
 ## // metrics
 
