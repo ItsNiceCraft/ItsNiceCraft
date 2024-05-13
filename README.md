@@ -27,19 +27,19 @@
 
 #### // recent pull requests
 
+- [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (today)
 - [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (1 month ago)
 - [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (3 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (4 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (6 months ago)
-- [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/docs/pull/110) on [spicetify/docs](https://github.com/spicetify/docs) (6 months ago)
 
 #### // recent stars
 
+- [modrinth/labrinth](https://github.com/modrinth/labrinth) - Our Rust-based backend utilizing the actix-web framework to serve Modrinth&#39;s API. (today)
+- [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (today)
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API (today)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (1 day ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 week ago)
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites (1 week ago)
-- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -  (1 week ago)
 
 ## // metrics
 
