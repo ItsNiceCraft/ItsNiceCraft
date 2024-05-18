@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian (today)
 - [modrinth/labrinth](https://github.com/modrinth/labrinth) - Our Rust-based backend utilizing the actix-web framework to serve Modrinth&#39;s API. (5 days ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (5 days ago)
 - [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API (5 days ago)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (6 days ago)
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 week ago)
 
 ## // metrics
 
