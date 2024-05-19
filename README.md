@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [esmBot/esmBot](https://github.com/esmBot/esmBot) - A free and open-source Discord bot designed to entertain your server (today)
 - [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (1 day ago)
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian (1 day ago)
 - [modrinth/labrinth](https://github.com/modrinth/labrinth) - Our Rust-based backend utilizing the actix-web framework to serve Modrinth&#39;s API. (6 days ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (6 days ago)
-- [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API (6 days ago)
 
 ## // metrics
 
