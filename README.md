@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit  (today)
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (1 day ago)
 - [esmBot/esmBot](https://github.com/esmBot/esmBot) - A free and open-source Discord bot designed to entertain your server (1 day ago)
 - [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (2 days ago)
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian (2 days ago)
-- [modrinth/labrinth](https://github.com/modrinth/labrinth) - Our Rust-based backend utilizing the actix-web framework to serve Modrinth&#39;s API. (1 week ago)
 
 ## // metrics
 
