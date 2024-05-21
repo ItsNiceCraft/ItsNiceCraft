@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (4 days ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (5 days ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (1 week ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (1 month ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 month ago)
@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 2 days ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 3 days ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-1](https://github.com/1Password/for-open-source/releases/tag/processor-1), 1 month ago) - Get a 1Password team account for free to support your open source initiatives!
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.0.1](https://github.com/smuddgge/Leaf/releases/tag/5.0.1), 1 month ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 4 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (today)
-- [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit  (today)
-- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (1 day ago)
-- [esmBot/esmBot](https://github.com/esmBot/esmBot) - A free and open-source Discord bot designed to entertain your server (1 day ago)
-- [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (2 days ago)
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
+- [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit  (1 day ago)
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (2 days ago)
+- [esmBot/esmBot](https://github.com/esmBot/esmBot) - A free and open-source Discord bot designed to entertain your server (2 days ago)
+- [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (3 days ago)
 
 ## // metrics
 
