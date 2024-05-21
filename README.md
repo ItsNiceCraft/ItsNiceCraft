@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy! (today)
 - [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption. (today)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit  (1 day ago)
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (2 days ago)
-- [esmBot/esmBot](https://github.com/esmBot/esmBot) - A free and open-source Discord bot designed to entertain your server (2 days ago)
 
 ## // metrics
 
