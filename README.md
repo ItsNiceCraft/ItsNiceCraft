@@ -15,7 +15,7 @@
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (1 week ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (1 month ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 month ago)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 month ago)
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (1 month ago)
 
 #### // recent releases I contributed to
 
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption. (today)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) -  Private front-end for Reddit  (1 day ago)
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube (2 days ago)
 - [esmBot/esmBot](https://github.com/esmBot/esmBot) - A free and open-source Discord bot designed to entertain your server (2 days ago)
-- [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (3 days ago)
 
 ## // metrics
 
