@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (today)
 - [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows. (1 day ago)
 - [alangrainger/share-note](https://github.com/alangrainger/share-note) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key. (1 day ago)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (1 day ago)
 - [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy! (1 day ago)
-- [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - Parse and serialize minecraft packets, plus authentication and encryption. (1 day ago)
 
 ## // metrics
 
