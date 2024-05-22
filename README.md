@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Monterey &#43; Ventura &#43; Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. (today)
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. (today)
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (today)
 - [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows. (1 day ago)
 - [alangrainger/share-note](https://github.com/alangrainger/share-note) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key. (1 day ago)
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (1 day ago)
 
 ## // metrics
 
