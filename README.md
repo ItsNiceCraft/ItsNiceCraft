@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android (today)
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks (today)
+- [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks (today)
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Monterey &#43; Ventura &#43; Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. (1 day ago)
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [notAperson535/OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - Tools to set up a easy, quick macOS VM in QEMU, accelerated by KVM. Works on Linux AND Windows. (2 days ago)
-- [alangrainger/share-note](https://github.com/alangrainger/share-note) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key. (2 days ago)
 
 ## // metrics
 
