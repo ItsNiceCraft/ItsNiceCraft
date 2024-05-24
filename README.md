@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4) (today)
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (today)
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB (today)
 - [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let&#39;s find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list. (1 day ago)
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android (1 day ago)
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks (1 day ago)
 
 ## // metrics
 
