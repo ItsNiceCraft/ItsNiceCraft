@@ -11,8 +11,8 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 day ago)
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 week ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 days ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 weeks ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (2 weeks ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (1 month ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 month ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [whichjdk/whichjdk.com](https://github.com/whichjdk/whichjdk.com) - Which Version of JDK Should I Use? (today)
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (1 day ago)
-- [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4) (5 days ago)
-- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (5 days ago)
-- [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB (5 days ago)
+- [whichjdk/whichjdk.com](https://github.com/whichjdk/whichjdk.com) - Which Version of JDK Should I Use? (1 day ago)
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (2 days ago)
+- [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4) (6 days ago)
+- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (6 days ago)
+- [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB (6 days ago)
 
 ## // metrics
 
