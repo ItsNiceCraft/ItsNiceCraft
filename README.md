@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web. (today)
 - [whichjdk/whichjdk.com](https://github.com/whichjdk/whichjdk.com) - Which Version of JDK Should I Use? (1 day ago)
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (2 days ago)
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4) (6 days ago)
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (6 days ago)
-- [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB (6 days ago)
 
 ## // metrics
 
