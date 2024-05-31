@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 days ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 weeks ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (2 weeks ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (1 month ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (today)
-- [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web. (today)
-- [whichjdk/whichjdk.com](https://github.com/whichjdk/whichjdk.com) - Which Version of JDK Should I Use? (1 day ago)
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (2 days ago)
-- [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4) (6 days ago)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 day ago)
+- [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web. (1 day ago)
+- [whichjdk/whichjdk.com](https://github.com/whichjdk/whichjdk.com) - Which Version of JDK Should I Use? (2 days ago)
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (3 days ago)
+- [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4) (1 week ago)
 
 ## // metrics
 
