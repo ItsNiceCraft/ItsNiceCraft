@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (today)
 - [py-mine/mcstatus](https://github.com/py-mine/mcstatus) - A Python library for checking the status of Minecraft servers (today)
 - [dreamscached/MineQuery](https://github.com/dreamscached/MineQuery) - 📡 Minecraft Server List Ping library written in Go (1 day ago)
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (1 day ago)
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (2 days ago)
-- [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web. (2 days ago)
 
 ## // metrics
 
