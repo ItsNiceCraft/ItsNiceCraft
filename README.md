@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. (today)
 - [kinnay/NintendoClients](https://github.com/kinnay/NintendoClients) - Python package to communicate with Switch, Wii U and 3DS servers (today)
 - [MikeIsAStar/szsHaxx](https://github.com/MikeIsAStar/szsHaxx) - Injects arbitrary code into Mario Kart Wii. (today)
 - [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (1 day ago)
 - [py-mine/mcstatus](https://github.com/py-mine/mcstatus) - A Python library for checking the status of Minecraft servers (1 day ago)
-- [dreamscached/MineQuery](https://github.com/dreamscached/MineQuery) - 📡 Minecraft Server List Ping library written in Go (2 days ago)
 
 ## // metrics
 
