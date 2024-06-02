@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [MikeIsAStar/szsHaxx](https://github.com/MikeIsAStar/szsHaxx) - Injects arbitrary code into Mario Kart Wii. (today)
 - [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (1 day ago)
 - [py-mine/mcstatus](https://github.com/py-mine/mcstatus) - A Python library for checking the status of Minecraft servers (1 day ago)
 - [dreamscached/MineQuery](https://github.com/dreamscached/MineQuery) - 📡 Minecraft Server List Ping library written in Go (2 days ago)
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (2 days ago)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (3 days ago)
 
 ## // metrics
 
