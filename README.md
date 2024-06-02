@@ -11,11 +11,11 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (4 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (5 days ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 weeks ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (2 weeks ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (1 month ago)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 month ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (2 months ago)
 
 #### // recent releases I contributed to
 
@@ -28,18 +28,18 @@
 #### // recent pull requests
 
 - [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (2 weeks ago)
-- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (1 month ago)
+- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (2 months ago)
 - [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (4 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (4 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/smuddgge/Leaf/pull/77) on [smuddgge/Leaf](https://github.com/smuddgge/Leaf) (7 months ago)
 
 #### // recent stars
 
-- [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (today)
-- [py-mine/mcstatus](https://github.com/py-mine/mcstatus) - A Python library for checking the status of Minecraft servers (today)
-- [dreamscached/MineQuery](https://github.com/dreamscached/MineQuery) - 📡 Minecraft Server List Ping library written in Go (1 day ago)
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (1 day ago)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (2 days ago)
+- [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (1 day ago)
+- [py-mine/mcstatus](https://github.com/py-mine/mcstatus) - A Python library for checking the status of Minecraft servers (1 day ago)
+- [dreamscached/MineQuery](https://github.com/dreamscached/MineQuery) - 📡 Minecraft Server List Ping library written in Go (2 days ago)
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (2 days ago)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (3 days ago)
 
 ## // metrics
 
