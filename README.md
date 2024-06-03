@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. (today)
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system. (today)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (today)
 - [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (1 day ago)
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. (1 day ago)
-- [kinnay/NintendoClients](https://github.com/kinnay/NintendoClients) - Python package to communicate with Switch, Wii U and 3DS servers (1 day ago)
 
 ## // metrics
 
