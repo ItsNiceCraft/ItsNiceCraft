@@ -11,9 +11,9 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (5 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (6 days ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 weeks ago)
-- [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (2 weeks ago)
+- [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (3 weeks ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (1 month ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (2 months ago)
 
@@ -27,7 +27,7 @@
 
 #### // recent pull requests
 
-- [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (2 weeks ago)
+- [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (3 weeks ago)
 - [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (2 months ago)
 - [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (4 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (4 months ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (today)
-- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. (today)
-- [kinnay/NintendoClients](https://github.com/kinnay/NintendoClients) - Python package to communicate with Switch, Wii U and 3DS servers (today)
-- [MikeIsAStar/szsHaxx](https://github.com/MikeIsAStar/szsHaxx) - Injects arbitrary code into Mario Kart Wii. (today)
-- [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (1 day ago)
+- [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (1 day ago)
+- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. (1 day ago)
+- [kinnay/NintendoClients](https://github.com/kinnay/NintendoClients) - Python package to communicate with Switch, Wii U and 3DS servers (1 day ago)
+- [MikeIsAStar/szsHaxx](https://github.com/MikeIsAStar/szsHaxx) - Injects arbitrary code into Mario Kart Wii. (1 day ago)
+- [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (2 days ago)
 
 ## // metrics
 
