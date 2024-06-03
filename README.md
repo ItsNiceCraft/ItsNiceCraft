@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system. (today)
+- [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (today)
 - [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (1 day ago)
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. (1 day ago)
 - [kinnay/NintendoClients](https://github.com/kinnay/NintendoClients) - Python package to communicate with Switch, Wii U and 3DS servers (1 day ago)
-- [MikeIsAStar/szsHaxx](https://github.com/MikeIsAStar/szsHaxx) - Injects arbitrary code into Mario Kart Wii. (1 day ago)
-- [mat-1/matscan](https://github.com/mat-1/matscan) - silly minecraft server scanner (2 days ago)
 
 ## // metrics
 
