@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (today)
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. (1 day ago)
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system. (1 day ago)
 - [jech/galene](https://github.com/jech/galene) - The Galène videoconference server (1 day ago)
 - [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (2 days ago)
-- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. (2 days ago)
 
 ## // metrics
 
