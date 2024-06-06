@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.1.0](https://github.com/smuddgge/Leaf/releases/tag/5.1.0), 2 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.2.0](https://github.com/smuddgge/Leaf/releases/tag/5.2.0), today) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-2](https://github.com/1Password/for-open-source/releases/tag/processor-2), 3 days ago) - Get a 1Password team account for free to support your open source initiatives!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 2 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 5 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
