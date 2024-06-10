@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (today)
 - [kbinani/je2be-core](https://github.com/kbinani/je2be-core) - Map converter for Minecraft Java, Bedrock, Xbox360, and PS3 Edition: Available as a Web App https://je2be.app, and as a Desktop App on Microsoft Store: https://www.microsoft.com/store/apps/9PC9MFX9QCXS (1 day ago)
 - [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur (1 day ago)
 - [vinceliuice/WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops (1 day ago)
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world! (4 days ago)
-- [repo-sync/repo-sync](https://github.com/repo-sync/repo-sync) - 🔄 Keep a pair of GitHub repos in sync (4 days ago)
 
 ## // metrics
 
