@@ -15,7 +15,7 @@
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 weeks ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (4 weeks ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (1 month ago)
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (2 months ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (2 months ago)
 
 #### // recent releases I contributed to
 
