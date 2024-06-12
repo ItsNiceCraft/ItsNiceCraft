@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more (today)
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (today)
 - [trevortylerlee/astro-micro](https://github.com/trevortylerlee/astro-micro) - Blog theme for Astro with search and comments built-in. Zero frameworks. (2 days ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (2 days ago)
 - [kbinani/je2be-core](https://github.com/kbinani/je2be-core) - Map converter for Minecraft Java, Bedrock, Xbox360, and PS3 Edition: Available as a Web App https://je2be.app, and as a Desktop App on Microsoft Store: https://www.microsoft.com/store/apps/9PC9MFX9QCXS (3 days ago)
-- [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur (3 days ago)
 
 ## // metrics
 
