@@ -19,10 +19,10 @@
 
 #### // recent releases I contributed to
 
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), today) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.2.2](https://github.com/smuddgge/Leaf/releases/tag/5.2.2), 4 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 1 week ago) - Get a 1Password team account for free to support your open source initiatives!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 3 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 5 months ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility.
 
 #### // recent pull requests
