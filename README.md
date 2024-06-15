@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (today)
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager (today)
 - [byrnedo/docker-reg-tool](https://github.com/byrnedo/docker-reg-tool) - Docker registry cli tool, primarily for deleting images. (1 day ago)
 - [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment. (2 days ago)
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading  (2 days ago)
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more (3 days ago)
 
 ## // metrics
 
