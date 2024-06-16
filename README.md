@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (today)
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (today)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (today)
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (today)
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (today)
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 day ago)
 
 ## // metrics
 
