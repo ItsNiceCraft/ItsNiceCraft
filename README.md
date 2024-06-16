@@ -11,16 +11,16 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 day ago)
-- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (4 days ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 days ago)
+- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (5 days ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (1 month ago)
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives! (2 months ago)
 
 #### // recent releases I contributed to
 
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 1 day ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.2.2](https://github.com/smuddgge/Leaf/releases/tag/5.2.2), 5 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 days ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.2.2](https://github.com/smuddgge/Leaf/releases/tag/5.2.2), 6 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 1 week ago) - Get a 1Password team account for free to support your open source initiatives!
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 4 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility.
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (today)
-- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (today)
-- [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager (today)
-- [byrnedo/docker-reg-tool](https://github.com/byrnedo/docker-reg-tool) - Docker registry cli tool, primarily for deleting images. (1 day ago)
-- [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment. (2 days ago)
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 day ago)
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (1 day ago)
+- [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager (1 day ago)
+- [byrnedo/docker-reg-tool](https://github.com/byrnedo/docker-reg-tool) - Docker registry cli tool, primarily for deleting images. (2 days ago)
+- [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment. (3 days ago)
 
 ## // metrics
 
