@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (today)
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (today)
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (today)
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 day ago)
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (1 day ago)
-- [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager (1 day ago)
 
 ## // metrics
 
