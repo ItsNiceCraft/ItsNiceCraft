@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (today)
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 day ago)
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (1 day ago)
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager (1 day ago)
 - [byrnedo/docker-reg-tool](https://github.com/byrnedo/docker-reg-tool) - Docker registry cli tool, primarily for deleting images. (2 days ago)
-- [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment. (3 days ago)
 
 ## // metrics
 
