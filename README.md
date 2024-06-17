@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (today)
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (1 day ago)
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (1 day ago)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 day ago)
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (1 day ago)
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 day ago)
 
 ## // metrics
 
