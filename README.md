@@ -11,18 +11,18 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/empty](https://github.com/ItsNiceCraft/empty) -  (today)
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 days ago)
-- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (5 days ago)
+- [ItsNiceCraft/empty](https://github.com/ItsNiceCraft/empty) -  (1 day ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 days ago)
+- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - Minecraft game versions (6 days ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (1 month ago)
 
 #### // recent releases I contributed to
 
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 days ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
-- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.2.2](https://github.com/smuddgge/Leaf/releases/tag/5.2.2), 6 days ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 3 days ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
+- [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.2.2](https://github.com/smuddgge/Leaf/releases/tag/5.2.2), 1 week ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 1 week ago) - Get a 1Password team account for free to support your open source initiatives!
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 4 weeks ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 1 month ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility.
 
 #### // recent pull requests
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (today)
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (today)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (today)
-- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (today)
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (today)
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (1 day ago)
+- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go (1 day ago)
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 day ago)
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes) (1 day ago)
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 day ago)
 
 ## // metrics
 
