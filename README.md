@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (1 day ago)
-- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges (3 days ago)
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (3 days ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (4 days ago)
-- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (5 days ago)
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (2 days ago)
+- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges (4 days ago)
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (4 days ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (5 days ago)
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client (6 days ago)
 
 ## // metrics
 
