@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (today)
+- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (1 day ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 week ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 weeks ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (1 month ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [Tiiffi/mcrcon](https://github.com/Tiiffi/mcrcon) - Rcon client for Minecraft (today)
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (2 days ago)
-- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges (4 days ago)
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (4 days ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (5 days ago)
+- [Tiiffi/mcrcon](https://github.com/Tiiffi/mcrcon) - Rcon client for Minecraft (1 day ago)
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (3 days ago)
+- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges (5 days ago)
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (5 days ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (6 days ago)
 
 ## // metrics
 
