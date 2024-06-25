@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 days ago)
 - [Tiiffi/mcrcon](https://github.com/Tiiffi/mcrcon) - Rcon client for Minecraft (3 days ago)
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (5 days ago)
 
 ## // metrics
 
