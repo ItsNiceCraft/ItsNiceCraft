@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (today)
+- [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (today)
+- [victorspringer/http-cache](https://github.com/victorspringer/http-cache) - High performance Golang HTTP middleware for server-side application layer caching, ideal for REST APIs (today)
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (5 days ago)
 
 ## // metrics
 
