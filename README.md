@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (today)
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (2 days ago)
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (2 days ago)
 - [victorspringer/http-cache](https://github.com/victorspringer/http-cache) - High performance Golang HTTP middleware for server-side application layer caching, ideal for REST APIs (2 days ago)
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python (3 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
 
 ## // metrics
 
