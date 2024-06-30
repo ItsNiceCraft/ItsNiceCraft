@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (1 day ago)
+- [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (2 days ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (1 week ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 weeks ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 month ago)
@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (1 day ago)
-- [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (1 day ago)
-- [victorspringer/http-cache](https://github.com/victorspringer/http-cache) - High performance Golang HTTP middleware for server-side application layer caching, ideal for REST APIs (1 day ago)
-- [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python (2 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (2 days ago)
+- [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (2 days ago)
+- [victorspringer/http-cache](https://github.com/victorspringer/http-cache) - High performance Golang HTTP middleware for server-side application layer caching, ideal for REST APIs (2 days ago)
+- [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python (3 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
 
 ## // metrics
 
