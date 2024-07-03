@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server (today)
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (3 days ago)
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (5 days ago)
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (5 days ago)
 - [victorspringer/http-cache](https://github.com/victorspringer/http-cache) - High performance Golang HTTP middleware for server-side application layer caching, ideal for REST APIs (5 days ago)
-- [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python (6 days ago)
 
 ## // metrics
 
