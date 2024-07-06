@@ -12,7 +12,7 @@
 #### // recent contributions
 
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (1 week ago)
-- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (1 week ago)
+- [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (2 weeks ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 weeks ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 month ago)
 - [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (1 month ago)
@@ -35,9 +35,9 @@
 
 #### // recent stars
 
-- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. (2 days ago)
-- [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server (2 days ago)
-- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (5 days ago)
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. (3 days ago)
+- [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server (3 days ago)
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (6 days ago)
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (1 week ago)
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (1 week ago)
 
