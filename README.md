@@ -35,11 +35,11 @@
 
 #### // recent stars
 
+- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions (today)
 - [eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) - Parse and manage posts with YAML (or other) frontmatter (1 day ago)
 - [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data (2 days ago)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (3 days ago)
 - [go-chi/httprate](https://github.com/go-chi/httprate) - net/http rate limiter middleware (4 days ago)
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (5 days ago)
 
 ## // metrics
 
