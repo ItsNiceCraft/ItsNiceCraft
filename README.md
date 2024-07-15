@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions (2 days ago)
-- [eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) - Parse and manage posts with YAML (or other) frontmatter (3 days ago)
-- [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data (4 days ago)
-- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (5 days ago)
-- [go-chi/httprate](https://github.com/go-chi/httprate) - net/http rate limiter middleware (6 days ago)
+- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions (3 days ago)
+- [eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) - Parse and manage posts with YAML (or other) frontmatter (4 days ago)
+- [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data (5 days ago)
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (6 days ago)
+- [go-chi/httprate](https://github.com/go-chi/httprate) - net/http rate limiter middleware (1 week ago)
 
 ## // metrics
 
