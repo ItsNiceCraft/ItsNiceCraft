@@ -35,11 +35,11 @@
 
 #### // recent stars
 
-- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support (today)
-- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions (3 days ago)
-- [eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) - Parse and manage posts with YAML (or other) frontmatter (4 days ago)
-- [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data (5 days ago)
-- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (6 days ago)
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support (1 day ago)
+- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions (4 days ago)
+- [eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) - Parse and manage posts with YAML (or other) frontmatter (5 days ago)
+- [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data (6 days ago)
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (1 week ago)
 
 ## // metrics
 
