@@ -22,7 +22,7 @@
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 1 month ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.2.2](https://github.com/smuddgge/Leaf/releases/tag/5.2.2), 1 month ago) - Velocity Proxy Plugin | Friends | StaffChat | StaffList | ServerList | Report | Send | Alert | And more!
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 1 month ago) - Get a 1Password team account for free to support your open source initiatives!
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 1 month ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ([v7.0.1](https://github.com/cotes2020/jekyll-theme-chirpy/releases/tag/v7.0.1), 2 months ago) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility.
 
 #### // recent pull requests
@@ -35,10 +35,10 @@
 
 #### // recent stars
 
-- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support (1 day ago)
-- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions (4 days ago)
-- [eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) - Parse and manage posts with YAML (or other) frontmatter (5 days ago)
-- [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data (6 days ago)
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support (2 days ago)
+- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions (5 days ago)
+- [eyeseast/python-frontmatter](https://github.com/eyeseast/python-frontmatter) - Parse and manage posts with YAML (or other) frontmatter (6 days ago)
+- [itzg/docker-mc-backup](https://github.com/itzg/docker-mc-backup) - Provides a side-car container to backup itzg/minecraft-server world data (1 week ago)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (1 week ago)
 
 ## // metrics
