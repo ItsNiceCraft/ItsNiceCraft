@@ -15,14 +15,14 @@
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 month ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 months ago)
-- [modrinth/knossos](https://github.com/modrinth/knossos) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility. (2 months ago)
+- [modrinth/knossos](https://github.com/modrinth/knossos) - [Archived] Former repo of the Modrinth frontend (2 months ago)
 
 #### // recent releases I contributed to
 
 - [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 2 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [smuddgge/Leaf](https://github.com/smuddgge/Leaf) ([5.2.2](https://github.com/smuddgge/Leaf/releases/tag/5.2.2), 1 month ago) - Velocity minecraft proxy plugin.
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 1 month ago) - Get a 1Password team account for free to support your open source initiatives!
-- [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - Our Vue-based frontend with server-side rendering and caching for great user experience, speed, and compatibility.
+- [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - [Archived] Former repo of the Modrinth frontend
 
 #### // recent pull requests
 
