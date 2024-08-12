@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [sakura-ryoko/tweakeroo](https://github.com/sakura-ryoko/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (today)
+- [sakura-ryoko/minihud](https://github.com/sakura-ryoko/minihud) - A client-side Minecraft mod with configurable &#34;info lines&#34; (&#34;mini-F3&#34;) and various overlays, such as light level and structure bounding boxes (today)
+- [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) - Library mod for masa&#39;s client-side Minecraft mods (today)
+- [sakura-ryoko/litematica](https://github.com/sakura-ryoko/litematica) - A modern client-side schematic mod for Minecraft (today)
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client (1 day ago)
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (4 days ago)
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (4 days ago)
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. (1 week ago)
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. (1 week ago)
 
 ## // metrics
 
