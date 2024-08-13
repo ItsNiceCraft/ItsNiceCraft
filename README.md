@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night. (today)
 - [sakura-ryoko/tweakeroo](https://github.com/sakura-ryoko/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (1 day ago)
 - [sakura-ryoko/minihud](https://github.com/sakura-ryoko/minihud) - A client-side Minecraft mod with configurable &#34;info lines&#34; (&#34;mini-F3&#34;) and various overlays, such as light level and structure bounding boxes (1 day ago)
 - [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) - Library mod for masa&#39;s client-side Minecraft mods (1 day ago)
 - [sakura-ryoko/litematica](https://github.com/sakura-ryoko/litematica) - A modern client-side schematic mod for Minecraft (1 day ago)
-- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client (2 days ago)
 
 ## // metrics
 
