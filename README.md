@@ -11,11 +11,11 @@
 
 #### // recent contributions
 
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (today)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (1 month ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 months ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 months ago)
-- [modrinth/knossos](https://github.com/modrinth/knossos) - [Archived] Former repo of the Modrinth frontend (3 months ago)
 
 #### // recent releases I contributed to
 
