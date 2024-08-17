@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (today)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 day ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (1 month ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 months ago)
@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 4 weeks ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
+- [Cubxity/UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics) ([v0.3.x-SNAPSHOT](https://github.com/Cubxity/UnifiedMetrics/releases/tag/v0.3.x-SNAPSHOT), 1 month ago) - Fully-featured metrics collection agent for Minecraft servers. Supports Prometheus and InfluxDB. Dashboard included out-of-box.
 - [Smudgge/Leaf](https://github.com/Smudgge/Leaf) ([5.2.2](https://github.com/Smudgge/Leaf/releases/tag/5.2.2), 2 months ago) - Velocity minecraft proxy plugin.
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 2 months ago) - Get a 1Password team account for free to support your open source initiatives!
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - [Archived] Former repo of the Modrinth frontend
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) -  (today)
-- [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night. (3 days ago)
-- [sakura-ryoko/tweakeroo](https://github.com/sakura-ryoko/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (4 days ago)
-- [sakura-ryoko/minihud](https://github.com/sakura-ryoko/minihud) - A client-side Minecraft mod with configurable &#34;info lines&#34; (&#34;mini-F3&#34;) and various overlays, such as light level and structure bounding boxes (4 days ago)
-- [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) - Library mod for masa&#39;s client-side Minecraft mods (4 days ago)
+- [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) -  (1 day ago)
+- [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night. (4 days ago)
+- [sakura-ryoko/tweakeroo](https://github.com/sakura-ryoko/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (5 days ago)
+- [sakura-ryoko/minihud](https://github.com/sakura-ryoko/minihud) - A client-side Minecraft mod with configurable &#34;info lines&#34; (&#34;mini-F3&#34;) and various overlays, such as light level and structure bounding boxes (5 days ago)
+- [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) - Library mod for masa&#39;s client-side Minecraft mods (5 days ago)
 
 ## // metrics
 
