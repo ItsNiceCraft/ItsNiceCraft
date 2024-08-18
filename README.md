@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 day ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (2 days ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (1 month ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 months ago)
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) -  (1 day ago)
-- [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night. (4 days ago)
-- [sakura-ryoko/tweakeroo](https://github.com/sakura-ryoko/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (5 days ago)
-- [sakura-ryoko/minihud](https://github.com/sakura-ryoko/minihud) - A client-side Minecraft mod with configurable &#34;info lines&#34; (&#34;mini-F3&#34;) and various overlays, such as light level and structure bounding boxes (5 days ago)
-- [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) - Library mod for masa&#39;s client-side Minecraft mods (5 days ago)
+- [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) -  (2 days ago)
+- [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night. (5 days ago)
+- [sakura-ryoko/tweakeroo](https://github.com/sakura-ryoko/tweakeroo) - A client-side Minecraft mod that adds various &#34;tweaks&#34; (= usually small-ish individual features) (6 days ago)
+- [sakura-ryoko/minihud](https://github.com/sakura-ryoko/minihud) - A client-side Minecraft mod with configurable &#34;info lines&#34; (&#34;mini-F3&#34;) and various overlays, such as light level and structure bounding boxes (6 days ago)
+- [sakura-ryoko/malilib](https://github.com/sakura-ryoko/malilib) - Library mod for masa&#39;s client-side Minecraft mods (6 days ago)
 
 ## // metrics
 
