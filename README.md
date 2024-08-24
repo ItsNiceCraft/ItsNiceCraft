@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. (today)
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (today)
-- [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo &amp; File Management System (today)
-- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (today)
-- [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth! (2 days ago)
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. (1 day ago)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (1 day ago)
+- [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo &amp; File Management System (1 day ago)
+- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources. (1 day ago)
+- [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth! (3 days ago)
 
 ## // metrics
 
