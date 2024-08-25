@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser (today)
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python. (today)
 - [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers (today)
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. (2 days ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (2 days ago)
-- [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo &amp; File Management System (2 days ago)
 
 ## // metrics
 
