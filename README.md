@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser (2 days ago)
-- [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python. (2 days ago)
-- [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers (2 days ago)
-- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. (4 days ago)
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (4 days ago)
+- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser (3 days ago)
+- [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python. (3 days ago)
+- [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers (3 days ago)
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. (5 days ago)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (5 days ago)
 
 ## // metrics
 
