@@ -27,16 +27,16 @@
 #### // recent pull requests
 
 - [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (3 months ago)
-- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (4 months ago)
+- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (5 months ago)
 - [Initialize npm package &amp; add .gitignore](https://github.com/smpial/jackbox-private-server/pull/1) on [smpial/jackbox-private-server](https://github.com/smpial/jackbox-private-server) (7 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (7 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/Smudgge/Leaf/pull/77) on [Smudgge/Leaf](https://github.com/Smudgge/Leaf) (10 months ago)
 
 #### // recent stars
 
-- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser (5 days ago)
-- [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python. (5 days ago)
-- [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers (5 days ago)
+- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser (6 days ago)
+- [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python. (6 days ago)
+- [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers (6 days ago)
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. (1 week ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (1 week ago)
 
