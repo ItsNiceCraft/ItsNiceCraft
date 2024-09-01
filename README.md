@@ -34,10 +34,10 @@
 
 #### // recent stars
 
-- [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC &amp; RDP (today)
-- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser (6 days ago)
-- [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python. (6 days ago)
-- [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers (6 days ago)
+- [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC &amp; RDP (1 day ago)
+- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser (1 week ago)
+- [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python. (1 week ago)
+- [unmojang/FjordLauncher](https://github.com/unmojang/FjordLauncher) - Prism Launcher fork with support for alternative auth servers (1 week ago)
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. (1 week ago)
 
 ## // metrics
