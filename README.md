@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Privacy-conscious open-source clock, based on AOSP Clock (today)
 - [prometheus-community/pro-bing](https://github.com/prometheus-community/pro-bing) - A library for creating continuous probers (today)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go (1 day ago)
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake&#39;s main development repository  (1 day ago)
-- [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC &amp; RDP (2 days ago)
 
 ## // metrics
 
