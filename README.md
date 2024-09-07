@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. (today)
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (today)
 - [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file (5 days ago)
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Privacy-conscious open-source clock, based on AOSP Clock (5 days ago)
 - [prometheus-community/pro-bing](https://github.com/prometheus-community/pro-bing) - A library for creating continuous probers (5 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (6 days ago)
 
 ## // metrics
 
