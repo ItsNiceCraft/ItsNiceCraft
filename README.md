@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 days ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 weeks ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (2 months ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (2 months ago)
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file (4 days ago)
-- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Privacy-conscious open-source clock, based on AOSP Clock (4 days ago)
-- [prometheus-community/pro-bing](https://github.com/prometheus-community/pro-bing) - A library for creating continuous probers (4 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (5 days ago)
-- [robfig/cron](https://github.com/robfig/cron) - a cron library for go (5 days ago)
+- [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file (5 days ago)
+- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Privacy-conscious open-source clock, based on AOSP Clock (5 days ago)
+- [prometheus-community/pro-bing](https://github.com/prometheus-community/pro-bing) - A library for creating continuous probers (5 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (6 days ago)
+- [robfig/cron](https://github.com/robfig/cron) - a cron library for go (6 days ago)
 
 ## // metrics
 
