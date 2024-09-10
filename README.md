@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (5 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (6 days ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 weeks ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (2 months ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (2 months ago)
@@ -26,7 +26,7 @@
 
 #### // recent pull requests
 
-- [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (3 months ago)
+- [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (4 months ago)
 - [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (5 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (8 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/Smudgge/Leaf/pull/77) on [Smudgge/Leaf](https://github.com/Smudgge/Leaf) (10 months ago)
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube (today)
-- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io (1 day ago)
-- [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK. (1 day ago)
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. (2 days ago)
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (2 days ago)
+- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube (1 day ago)
+- [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io (2 days ago)
+- [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK. (2 days ago)
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. (3 days ago)
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 days ago)
 
 ## // metrics
 
