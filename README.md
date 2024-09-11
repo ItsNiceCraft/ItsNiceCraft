@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (today)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 day ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 weeks ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (2 months ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (2 months ago)
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server. (today)
-- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server. (today)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (today)
-- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (today)
-- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube (1 day ago)
+- [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server. (1 day ago)
+- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server. (1 day ago)
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (1 day ago)
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 day ago)
+- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube (2 days ago)
 
 ## // metrics
 
