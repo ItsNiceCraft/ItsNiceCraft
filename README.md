@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android (today)
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You (today)
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized &amp; frequently updated collection of apps that supports material you design/theme. (today)
 - [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server. (3 days ago)
 - [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server. (3 days ago)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (3 days ago)
 
 ## // metrics
 
