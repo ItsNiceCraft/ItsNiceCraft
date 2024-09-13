@@ -11,8 +11,8 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 days ago)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 weeks ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 days ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (4 weeks ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (2 months ago)
 - [ItsNiceCraft/piston-data](https://github.com/ItsNiceCraft/piston-data) - 🆙 Minecraft game versions (2 months ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 months ago)
@@ -30,15 +30,15 @@
 - [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (5 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (8 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/Smudgge/Leaf/pull/77) on [Smudgge/Leaf](https://github.com/Smudgge/Leaf) (10 months ago)
-- [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/docs/pull/110) on [spicetify/docs](https://github.com/spicetify/docs) (10 months ago)
+- [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/docs/pull/110) on [spicetify/docs](https://github.com/spicetify/docs) (11 months ago)
 
 #### // recent stars
 
-- [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server. (2 days ago)
-- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server. (2 days ago)
-- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (2 days ago)
-- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (2 days ago)
-- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube (3 days ago)
+- [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server. (3 days ago)
+- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server. (3 days ago)
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (3 days ago)
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (3 days ago)
+- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube (4 days ago)
 
 ## // metrics
 
