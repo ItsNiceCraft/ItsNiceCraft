@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft (today)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (today)
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android (1 day ago)
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You (1 day ago)
 - [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized &amp; frequently updated collection of apps that supports material you design/theme. (1 day ago)
-- [gotify/cli](https://github.com/gotify/cli) - A command line interface for pushing messages to gotify/server. (4 days ago)
-- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server. (4 days ago)
 
 ## // metrics
 
