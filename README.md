@@ -34,11 +34,11 @@
 
 #### // recent stars
 
+- [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. (today)
 - [Tnze/go-mc](https://github.com/Tnze/go-mc) - Collection of Go libraries for Minecraft (1 day ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 day ago)
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android (2 days ago)
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You (2 days ago)
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized &amp; frequently updated collection of apps that supports material you design/theme. (2 days ago)
 
 ## // metrics
 
