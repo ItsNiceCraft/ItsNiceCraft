@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (5 days ago)
+- [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (6 days ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 week ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 month ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (2 months ago)
@@ -34,11 +34,11 @@
 
 #### // recent stars
 
-- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts. (today)
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (2 days ago)
-- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible. (2 days ago)
-- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server (4 days ago)
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (5 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts. (1 day ago)
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (3 days ago)
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible. (3 days ago)
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server (5 days ago)
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together (6 days ago)
 
 ## // metrics
 
