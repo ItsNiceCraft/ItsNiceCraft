@@ -33,8 +33,8 @@
 
 #### // recent stars
 
-- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot (today)
-- [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine. (5 days ago)
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot (1 day ago)
+- [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine. (6 days ago)
 - [lancachenet/docker-compose](https://github.com/lancachenet/docker-compose) - Docker-compose for a full-stack lancache (1 week ago)
 - [tpill90/epic-lancache-prefill](https://github.com/tpill90/epic-lancache-prefill) - CLI tool to automatically prime a Lancache with Epic Launcher games  (1 week ago)
 - [tpill90/steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) - CLI tool to automatically prime a Lancache with Steam games (1 week ago)
