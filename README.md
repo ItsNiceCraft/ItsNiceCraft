@@ -33,11 +33,11 @@
 
 #### // recent stars
 
+- [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library. (today)
+- [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve&#39;s Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network. (today)
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (today)
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot (3 days ago)
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine. (1 week ago)
-- [lancachenet/docker-compose](https://github.com/lancachenet/docker-compose) - Docker-compose for a full-stack lancache (1 week ago)
-- [tpill90/epic-lancache-prefill](https://github.com/tpill90/epic-lancache-prefill) - CLI tool to automatically prime a Lancache with Epic Launcher games  (1 week ago)
-- [tpill90/steam-lancache-prefill](https://github.com/tpill90/steam-lancache-prefill) - CLI tool to automatically prime a Lancache with Steam games (1 week ago)
 
 ## // metrics
 
