@@ -33,11 +33,11 @@
 
 #### // recent stars
 
+- [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests (today)
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library. (today)
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve&#39;s Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network. (today)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (today)
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot (3 days ago)
-- [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine. (1 week ago)
 
 ## // metrics
 
