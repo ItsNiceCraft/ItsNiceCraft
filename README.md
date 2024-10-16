@@ -33,11 +33,11 @@
 
 #### // recent stars
 
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (today)
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (today)
-- [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests (4 days ago)
-- [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library. (4 days ago)
-- [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve&#39;s Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network. (4 days ago)
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (1 day ago)
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (1 day ago)
+- [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests (5 days ago)
+- [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library. (5 days ago)
+- [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve&#39;s Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network. (5 days ago)
 
 ## // metrics
 
