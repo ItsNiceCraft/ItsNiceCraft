@@ -33,11 +33,11 @@
 
 #### // recent stars
 
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (today)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (3 days ago)
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (3 days ago)
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests (1 week ago)
 - [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library. (1 week ago)
-- [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve&#39;s Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network. (1 week ago)
 
 ## // metrics
 
