@@ -19,7 +19,6 @@
 
 #### // recent releases I contributed to
 
-- [Smudgge/Leaf](https://github.com/Smudgge/Leaf) ([5.2.2](https://github.com/Smudgge/Leaf/releases/tag/5.2.2), 4 months ago) - Velocity minecraft proxy plugin.
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 4 months ago) - Get a 1Password team account for free to support your open source initiatives!
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - [Archived] Former repo of the Modrinth frontend
 
