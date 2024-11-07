@@ -32,8 +32,8 @@
 
 #### // recent stars
 
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (2 days ago)
-- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (5 days ago)
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (3 days ago)
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (6 days ago)
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android. (2 weeks ago)
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities (2 weeks ago)
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (2 weeks ago)
