@@ -32,11 +32,11 @@
 
 #### // recent stars
 
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (today)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
 - [Winds-Studio/Surf](https://github.com/Winds-Studio/Surf) - Fix exploits and remove illegal/NBT items for anarchy servers (today)
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script (1 day ago)
 - [KyoriPowered/adventure-webui](https://github.com/KyoriPowered/adventure-webui) - A web UI for Adventure (1 day ago)
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (4 days ago)
-- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (1 week ago)
 
 ## // metrics
 
