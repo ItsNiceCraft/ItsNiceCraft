@@ -32,10 +32,10 @@
 
 #### // recent stars
 
-- [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script (today)
-- [KyoriPowered/adventure-webui](https://github.com/KyoriPowered/adventure-webui) - A web UI for Adventure (today)
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (3 days ago)
-- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (6 days ago)
+- [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script (1 day ago)
+- [KyoriPowered/adventure-webui](https://github.com/KyoriPowered/adventure-webui) - A web UI for Adventure (1 day ago)
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management (4 days ago)
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard (1 week ago)
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android. (2 weeks ago)
 
 ## // metrics
