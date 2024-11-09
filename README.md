@@ -32,11 +32,11 @@
 
 #### // recent stars
 
+- [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries. (today)
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (1 day ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 day ago)
 - [Winds-Studio/Surf](https://github.com/Winds-Studio/Surf) - Fix exploits and remove illegal/NBT items for anarchy servers (1 day ago)
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script (2 days ago)
-- [KyoriPowered/adventure-webui](https://github.com/KyoriPowered/adventure-webui) - A web UI for Adventure (2 days ago)
 
 ## // metrics
 
