@@ -13,7 +13,7 @@
 
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 weeks ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (2 weeks ago)
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 month ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 months ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (2 months ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (4 months ago)
 
@@ -24,7 +24,7 @@
 
 #### // recent pull requests
 
-- [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (5 months ago)
+- [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (6 months ago)
 - [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (7 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (10 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/Smudgge/Leaf/pull/77) on [Smudgge/Leaf](https://github.com/Smudgge/Leaf) (1 year ago)
@@ -32,11 +32,11 @@
 
 #### // recent stars
 
-- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (today)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
-- [Winds-Studio/Surf](https://github.com/Winds-Studio/Surf) - Fix exploits and remove illegal/NBT items for anarchy servers (today)
-- [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script (1 day ago)
-- [KyoriPowered/adventure-webui](https://github.com/KyoriPowered/adventure-webui) - A web UI for Adventure (1 day ago)
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (1 day ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 day ago)
+- [Winds-Studio/Surf](https://github.com/Winds-Studio/Surf) - Fix exploits and remove illegal/NBT items for anarchy servers (1 day ago)
+- [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script (2 days ago)
+- [KyoriPowered/adventure-webui](https://github.com/KyoriPowered/adventure-webui) - A web UI for Adventure (2 days ago)
 
 ## // metrics
 
