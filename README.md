@@ -32,11 +32,11 @@
 
 #### // recent stars
 
+- [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (today)
+- [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container. (today)
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash (today)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (today)
 - [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) - Convert Minecraft worlds between Java Edition and Bedrock Edition (2 days ago)
-- [factoriotools/factorio-docker](https://github.com/factoriotools/factorio-docker) - Factorio headless server in a Docker container (1 week ago)
-- [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries. (2 weeks ago)
 
 ## // metrics
 
