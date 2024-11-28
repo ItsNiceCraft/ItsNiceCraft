@@ -32,11 +32,11 @@
 
 #### // recent stars
 
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (today)
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (today)
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (today)
 - [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (5 days ago)
 - [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container. (5 days ago)
-- [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash (5 days ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (5 days ago)
 
 ## // metrics
 
