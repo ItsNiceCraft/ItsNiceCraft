@@ -26,15 +26,15 @@
 
 - [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (6 months ago)
 - [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (8 months ago)
-- [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (10 months ago)
+- [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (11 months ago)
 - [[fix] fix typo in default database.yml](https://github.com/Smudgge/Leaf/pull/77) on [Smudgge/Leaf](https://github.com/Smudgge/Leaf) (1 year ago)
 - [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/docs/pull/110) on [spicetify/docs](https://github.com/spicetify/docs) (1 year ago)
 
 #### // recent stars
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (3 days ago)
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (3 days ago)
-- [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (3 days ago)
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (4 days ago)
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (4 days ago)
+- [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (4 days ago)
 - [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (1 week ago)
 - [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container. (1 week ago)
 
