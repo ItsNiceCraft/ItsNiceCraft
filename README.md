@@ -32,9 +32,9 @@
 
 #### // recent stars
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (4 days ago)
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (4 days ago)
-- [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (4 days ago)
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (5 days ago)
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (5 days ago)
+- [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (5 days ago)
 - [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (1 week ago)
 - [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container. (1 week ago)
 
