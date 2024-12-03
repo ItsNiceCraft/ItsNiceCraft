@@ -11,8 +11,8 @@
 
 #### // recent contributions
 
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (today)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 week ago)
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 month ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (1 month ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 months ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (5 months ago)
