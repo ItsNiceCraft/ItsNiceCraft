@@ -32,11 +32,11 @@
 
 #### // recent stars
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (today)
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (6 days ago)
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (6 days ago)
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (6 days ago)
 - [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (1 week ago)
-- [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container. (1 week ago)
 
 ## // metrics
 
