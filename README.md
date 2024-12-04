@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (today)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 day ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 week ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (1 month ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 months ago)
@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 5 months ago) - Get a 1Password team account for free to support your open source initiatives!
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 6 months ago) - Get a 1Password team account for free to support your open source initiatives!
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - [Archived] Former repo of the Modrinth frontend
 
 #### // recent pull requests
@@ -32,9 +32,9 @@
 
 #### // recent stars
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (5 days ago)
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (5 days ago)
-- [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (5 days ago)
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (6 days ago)
+- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (6 days ago)
+- [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (6 days ago)
 - [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (1 week ago)
 - [dockur/umbrel](https://github.com/dockur/umbrel) - umbrelOS inside a Docker container. (1 week ago)
 
