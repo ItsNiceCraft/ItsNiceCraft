@@ -11,8 +11,8 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 days ago)
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 week ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (4 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (1 month ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 months ago)
 - [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (5 months ago)
@@ -32,11 +32,11 @@
 
 #### // recent stars
 
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (2 days ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 days ago)
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (1 week ago)
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (1 week ago)
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (1 week ago)
-- [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (1 week ago)
+- [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (2 weeks ago)
 
 ## // metrics
 
