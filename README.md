@@ -32,11 +32,11 @@
 
 #### // recent stars
 
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup (today)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 days ago)
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (1 week ago)
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (1 week ago)
 - [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic) - The final form, the true evolution of the chromic theme saga! (1 week ago)
-- [dockur/tor](https://github.com/dockur/tor) - Tor in a Docker container. (2 weeks ago)
 
 ## // metrics
 
