@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (4 days ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (5 days ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (1 month ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (3 months ago)
@@ -32,9 +32,9 @@
 
 #### // recent stars
 
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (today)
-- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup (today)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 days ago)
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 day ago)
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup (1 day ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (4 days ago)
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (1 week ago)
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (1 week ago)
 
