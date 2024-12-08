@@ -32,11 +32,11 @@
 
 #### // recent stars
 
+- [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds (today)
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 day ago)
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup (1 day ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (4 days ago)
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. (1 week ago)
-- [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop (1 week ago)
 
 ## // metrics
 
