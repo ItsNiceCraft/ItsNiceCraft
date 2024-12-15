@@ -32,7 +32,7 @@
 
 #### // recent stars
 
-- [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds (6 days ago)
+- [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds (1 week ago)
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 week ago)
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup (1 week ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 week ago)
