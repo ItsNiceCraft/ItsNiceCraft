@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 week ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 weeks ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 weeks ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (1 month ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (4 months ago)
@@ -32,7 +32,7 @@
 
 #### // recent stars
 
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (1 day ago)
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (2 days ago)
 - [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds (1 week ago)
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 week ago)
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup (1 week ago)
