@@ -11,11 +11,11 @@
 
 #### // recent contributions
 
+- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (today)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 month ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 month ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (2 months ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (5 months ago)
-- [ItsNiceCraft/licenses](https://github.com/ItsNiceCraft/licenses) - ⚖️ GitHub license data (6 months ago)
 
 #### // recent releases I contributed to
 
