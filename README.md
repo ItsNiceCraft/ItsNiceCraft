@@ -32,11 +32,11 @@
 
 #### // recent stars
 
+- [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs (today)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI (5 days ago)
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices (2 weeks ago)
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency (4 weeks ago)
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr (1 month ago)
-- [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn&#39;t depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab. (1 month ago)
 
 ## // metrics
 
