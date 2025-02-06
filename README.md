@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (2 weeks ago)
+- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (3 weeks ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 months ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 months ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (3 months ago)
@@ -32,7 +32,7 @@
 
 #### // recent stars
 
-- [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs (5 days ago)
+- [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs) - A Dumb WhoIs (6 days ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI (1 week ago)
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices (3 weeks ago)
 - [monero-project/monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency (1 month ago)
