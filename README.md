@@ -32,7 +32,7 @@
 
 #### // recent stars
 
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (4 days ago)
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (5 days ago)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (1 week ago)
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure! (1 week ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (1 week ago)
