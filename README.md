@@ -25,17 +25,17 @@
 #### // recent pull requests
 
 - [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (9 months ago)
-- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (10 months ago)
+- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (11 months ago)
 - [Add build CI GitHub Actions workflow](https://github.com/WiiLink24/wfc-server/pull/38) on [WiiLink24/wfc-server](https://github.com/WiiLink24/wfc-server) (1 year ago)
 - [[fix] fix typo in default database.yml](https://github.com/Smudgge/Leaf/pull/77) on [Smudgge/Leaf](https://github.com/Smudgge/Leaf) (1 year ago)
 - [Add &#34;not maintained&#34; notice to unmaintained theme repos](https://github.com/spicetify/docs/pull/110) on [spicetify/docs](https://github.com/spicetify/docs) (1 year ago)
 
 #### // recent stars
 
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (5 days ago)
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (6 days ago)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (1 week ago)
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure! (1 week ago)
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (1 week ago)
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure! (2 weeks ago)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative (2 weeks ago)
 - [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) (2 weeks ago)
 
 ## // metrics
