@@ -32,10 +32,10 @@
 
 #### // recent stars
 
-- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end (1 day ago)
-- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (1 day ago)
-- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM (1 day ago)
-- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (1 day ago)
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end (2 days ago)
+- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (2 days ago)
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM (2 days ago)
+- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (2 days ago)
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (1 week ago)
 
 ## // metrics
