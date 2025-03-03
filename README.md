@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book&#39;s Story — Material You eBook reader built with Jetpack Compose. Free &amp; Open source &amp; Ad-free, with extensive customization options and support for multiple file formats. (today)
+- [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - E2E encrypted password and (email) alias manager (today)
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end (4 days ago)
 - [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (4 days ago)
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM (4 days ago)
-- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (4 days ago)
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (1 week ago)
 
 ## // metrics
 
