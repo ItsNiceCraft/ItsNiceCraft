@@ -11,14 +11,15 @@
 
 #### // recent contributions
 
+- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (today)
 - [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 months ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 months ago)
 - [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (4 months ago)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (6 months ago)
 
 #### // recent releases I contributed to
 
+- [kagisearch/bangs](https://github.com/kagisearch/bangs) ([202502241504](https://github.com/kagisearch/bangs/releases/tag/202502241504), 1 week ago) - Repository of bangs used by Kagi Search
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 8 months ago) - Get a 1Password team account for free to support your open source initiatives!
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - [Archived] Former repo of the Modrinth frontend
 
