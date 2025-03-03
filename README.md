@@ -19,7 +19,7 @@
 
 #### // recent releases I contributed to
 
-- [kagisearch/bangs](https://github.com/kagisearch/bangs) ([202502241504](https://github.com/kagisearch/bangs/releases/tag/202502241504), 1 week ago) - Repository of bangs used by Kagi Search
+- [kagisearch/bangs](https://github.com/kagisearch/bangs) ([202503031503](https://github.com/kagisearch/bangs/releases/tag/202503031503), today) - Repository of bangs used by Kagi Search
 - [1Password/for-open-source](https://github.com/1Password/for-open-source) ([processor-3](https://github.com/1Password/for-open-source/releases/tag/processor-3), 8 months ago) - Get a 1Password team account for free to support your open source initiatives!
 - [modrinth/knossos](https://github.com/modrinth/knossos) ([v2.2](https://github.com/modrinth/knossos/releases/tag/v2.2), 2 years ago) - [Archived] Former repo of the Modrinth frontend
 
