@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World&#39;s First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono (today)
 - [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21.3 Lightweight Minecraft server (2 days ago)
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book&#39;s Story — Material You eBook reader built with Jetpack Compose. Free &amp; Open source &amp; Ad-free, with extensive customization options and support for multiple file formats. (2 days ago)
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - E2E encrypted password and (email) alias manager with built-in email server. Fully self-hostable. (2 days ago)
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end (6 days ago)
-- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi. (6 days ago)
 
 ## // metrics
 
