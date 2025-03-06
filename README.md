@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (3 days ago)
+- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (today)
 - [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 months ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 months ago)
@@ -19,11 +19,11 @@
 
 #### // recent pull requests
 
+- [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (today)
 - [tv.com has shut down, move !tv bang to imdb](https://github.com/kagisearch/bangs/pull/180) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 days ago)
 - [Add phind](https://github.com/kagisearch/bangs/pull/178) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 days ago)
 - [Remove wiki.vg](https://github.com/kagisearch/bangs/pull/173) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 days ago)
 - [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (9 months ago)
-- [Add masstld](https://github.com/1Password/for-open-source/pull/930) on [1Password/for-open-source](https://github.com/1Password/for-open-source) (11 months ago)
 
 #### // recent stars
 
