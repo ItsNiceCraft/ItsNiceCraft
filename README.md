@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions (today)
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. (today)
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy (today)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
 - [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World&#39;s First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono (2 days ago)
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21.3 Lightweight Minecraft server (4 days ago)
 
 ## // metrics
 
