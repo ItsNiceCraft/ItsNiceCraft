@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy (today)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
 - [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World&#39;s First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono (2 days ago)
 - [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21.3 Lightweight Minecraft server (4 days ago)
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book&#39;s Story — Material You eBook reader built with Jetpack Compose. Free &amp; Open source &amp; Ad-free, with extensive customization options and support for multiple file formats. (4 days ago)
-- [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - E2E encrypted password and (email) alias manager with built-in email server. Fully self-hostable. (4 days ago)
-- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end (1 week ago)
 
 ## // metrics
 
