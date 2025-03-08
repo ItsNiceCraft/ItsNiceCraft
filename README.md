@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (today)
 - [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions (1 day ago)
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. (1 day ago)
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy (1 day ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
-- [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World&#39;s First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono (3 days ago)
 
 ## // metrics
 
