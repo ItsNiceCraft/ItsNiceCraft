@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (5 days ago)
+- [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (6 days ago)
 - [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 months ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 months ago)
@@ -19,7 +19,7 @@
 
 #### // recent pull requests
 
-- [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (5 days ago)
+- [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (6 days ago)
 - [tv.com has shut down, move !tv bang to imdb](https://github.com/kagisearch/bangs/pull/180) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 week ago)
 - [Add phind](https://github.com/kagisearch/bangs/pull/178) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 week ago)
 - [Remove wiki.vg](https://github.com/kagisearch/bangs/pull/173) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 week ago)
@@ -27,11 +27,11 @@
 
 #### // recent stars
 
-- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. (today)
-- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (3 days ago)
-- [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions (4 days ago)
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. (4 days ago)
-- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy (4 days ago)
+- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. (1 day ago)
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (4 days ago)
+- [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions (5 days ago)
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. (5 days ago)
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy (5 days ago)
 
 ## // metrics
 
