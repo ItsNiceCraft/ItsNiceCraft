@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices (today)
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -  (today)
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. (1 day ago)
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (4 days ago)
 - [flathub/flathub](https://github.com/flathub/flathub) - Issue tracker and new submissions (5 days ago)
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. (5 days ago)
 
 ## // metrics
 
