@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help. (today)
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo (today)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (today)
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices (1 day ago)
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -  (1 day ago)
-- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. (2 days ago)
 
 ## // metrics
 
