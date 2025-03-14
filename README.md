@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian. (today)
+- [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers... (today)
+- [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool (today)
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source &amp; end-to-end encrypted note taking alternative to Evernote. (1 day ago)
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (1 day ago)
-- [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help. (1 day ago)
-- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo (1 day ago)
-- [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (1 day ago)
 
 ## // metrics
 
