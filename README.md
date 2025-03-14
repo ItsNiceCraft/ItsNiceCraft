@@ -27,11 +27,11 @@
 
 #### // recent stars
 
-- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source &amp; end-to-end encrypted note taking alternative to Evernote. (today)
-- [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (today)
-- [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help. (today)
-- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo (today)
-- [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (today)
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source &amp; end-to-end encrypted note taking alternative to Evernote. (1 day ago)
+- [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (1 day ago)
+- [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help. (1 day ago)
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo (1 day ago)
+- [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (1 day ago)
 
 ## // metrics
 
