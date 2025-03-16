@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized (today)
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian. (2 days ago)
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers... (2 days ago)
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool (2 days ago)
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source &amp; end-to-end encrypted note taking alternative to Evernote. (3 days ago)
-- [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager (3 days ago)
 
 ## // metrics
 
