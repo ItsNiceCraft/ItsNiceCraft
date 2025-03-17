@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key) - An Obsidian plugin to make the tab key insert a tab, and make it feel like any other IDE regarding tabs and indentation. (today)
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (1 day ago)
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included! (1 day ago)
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized (1 day ago)
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian. (3 days ago)
-- [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers... (3 days ago)
 
 ## // metrics
 
