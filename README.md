@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework (today)
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (today)
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. (4 days ago)
 - [jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key) - An Obsidian plugin to make the tab key insert a tab, and make it feel like any other IDE regarding tabs and indentation. (4 days ago)
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (5 days ago)
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included! (5 days ago)
-- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized (5 days ago)
 
 ## // metrics
 
