@@ -15,7 +15,7 @@
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (2 weeks ago)
 - [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (2 months ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 months ago)
-- [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (4 months ago)
+- [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (5 months ago)
 
 #### // recent pull requests
 
@@ -27,11 +27,11 @@
 
 #### // recent stars
 
-- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework (today)
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (today)
-- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. (4 days ago)
-- [jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key) - An Obsidian plugin to make the tab key insert a tab, and make it feel like any other IDE regarding tabs and indentation. (4 days ago)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (5 days ago)
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework (1 day ago)
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (1 day ago)
+- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. (5 days ago)
+- [jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key) - An Obsidian plugin to make the tab key insert a tab, and make it feel like any other IDE regarding tabs and indentation. (5 days ago)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (6 days ago)
 
 ## // metrics
 
