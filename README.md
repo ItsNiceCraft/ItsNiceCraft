@@ -27,11 +27,11 @@
 
 #### // recent stars
 
-- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework (1 day ago)
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (1 day ago)
-- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. (5 days ago)
-- [jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key) - An Obsidian plugin to make the tab key insert a tab, and make it feel like any other IDE regarding tabs and indentation. (5 days ago)
-- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (6 days ago)
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework (2 days ago)
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (2 days ago)
+- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. (6 days ago)
+- [jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key) - An Obsidian plugin to make the tab key insert a tab, and make it feel like any other IDE regarding tabs and indentation. (6 days ago)
+- [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (1 week ago)
 
 ## // metrics
 
