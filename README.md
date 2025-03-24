@@ -20,17 +20,17 @@
 #### // recent pull requests
 
 - [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 weeks ago)
-- [tv.com has shut down, move !tv bang to imdb](https://github.com/kagisearch/bangs/pull/180) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 weeks ago)
-- [Add phind](https://github.com/kagisearch/bangs/pull/178) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 weeks ago)
-- [Remove wiki.vg](https://github.com/kagisearch/bangs/pull/173) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 weeks ago)
+- [tv.com has shut down, move !tv bang to imdb](https://github.com/kagisearch/bangs/pull/180) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 weeks ago)
+- [Add phind](https://github.com/kagisearch/bangs/pull/178) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 weeks ago)
+- [Remove wiki.vg](https://github.com/kagisearch/bangs/pull/173) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 weeks ago)
 - [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (10 months ago)
 
 #### // recent stars
 
-- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework (2 days ago)
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (2 days ago)
-- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. (6 days ago)
-- [jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key) - An Obsidian plugin to make the tab key insert a tab, and make it feel like any other IDE regarding tabs and indentation. (6 days ago)
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework (3 days ago)
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (3 days ago)
+- [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. (1 week ago)
+- [jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key) - An Obsidian plugin to make the tab key insert a tab, and make it feel like any other IDE regarding tabs and indentation. (1 week ago)
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy (1 week ago)
 
 ## // metrics
