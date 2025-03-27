@@ -19,11 +19,11 @@
 
 #### // recent pull requests
 
+- [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (today)
 - [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 weeks ago)
 - [tv.com has shut down, move !tv bang to imdb](https://github.com/kagisearch/bangs/pull/180) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 weeks ago)
 - [Add phind](https://github.com/kagisearch/bangs/pull/178) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 weeks ago)
 - [Remove wiki.vg](https://github.com/kagisearch/bangs/pull/173) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 weeks ago)
-- [Update Rewards Program Information because the analytics dashboard has been released](https://github.com/modrinth/knossos/pull/1712) on [modrinth/knossos](https://github.com/modrinth/knossos) (10 months ago)
 
 #### // recent stars
 
