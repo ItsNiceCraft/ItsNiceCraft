@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). (today)
 - [CappielloAntonio/tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android. (today)
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification. (today)
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers (today)
 - [CraftWorksMC/Chora](https://github.com/CraftWorksMC/Chora) - Simple Navidrome / Subsonic Music Player (today)
-- [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android&#39;s standard strictly. (today)
 
 ## // metrics
 
