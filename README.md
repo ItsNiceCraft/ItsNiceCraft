@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (today)
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) -  (1 day ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 day ago)
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves (2 days ago)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.  (1 week ago)
-- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). (1 week ago)
 
 ## // metrics
 
