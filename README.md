@@ -27,11 +27,11 @@
 
 #### // recent stars
 
-- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. (2 days ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (today)
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. (3 days ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (1 week ago)
 - [coder/wush](https://github.com/coder/wush) - simplest &amp; fastest way to transfer files between computers via WireGuard (1 week ago)
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser. (2 weeks ago)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (2 weeks ago)
 
 ## // metrics
 
