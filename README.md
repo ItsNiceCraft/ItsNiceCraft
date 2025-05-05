@@ -20,17 +20,17 @@
 #### // recent pull requests
 
 - [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 month ago)
-- [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 month ago)
+- [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
 - [tv.com has shut down, move !tv bang to imdb](https://github.com/kagisearch/bangs/pull/180) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
 - [Add phind](https://github.com/kagisearch/bangs/pull/178) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
 - [Remove wiki.vg](https://github.com/kagisearch/bangs/pull/173) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
 
 #### // recent stars
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (today)
-- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. (3 days ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 day ago)
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. (4 days ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (1 week ago)
-- [coder/wush](https://github.com/coder/wush) - simplest &amp; fastest way to transfer files between computers via WireGuard (1 week ago)
+- [coder/wush](https://github.com/coder/wush) - simplest &amp; fastest way to transfer files between computers via WireGuard (2 weeks ago)
 - [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser. (2 weeks ago)
 
 ## // metrics
