@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (5 days ago)
+- [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (6 days ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 month ago)
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 month ago)
@@ -31,7 +31,7 @@
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) (1 week ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (2 weeks ago)
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. (2 weeks ago)
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (3 weeks ago)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (4 weeks ago)
 
 ## // metrics
 
