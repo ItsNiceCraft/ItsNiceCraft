@@ -19,7 +19,7 @@
 
 #### // recent pull requests
 
-- [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 month ago)
+- [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
 - [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
 - [tv.com has shut down, move !tv bang to imdb](https://github.com/kagisearch/bangs/pull/180) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
 - [Add phind](https://github.com/kagisearch/bangs/pull/178) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
