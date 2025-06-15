@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 days ago)
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (1 week ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 week ago)
 - [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (1 week ago)
@@ -27,7 +27,7 @@
 
 #### // recent stars
 
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (5 days ago)
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (6 days ago)
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors (1 week ago)
 - [PrivateBin/docker-nginx-fpm-alpine](https://github.com/PrivateBin/docker-nginx-fpm-alpine) - PrivateBin docker image based on Nginx, php-fpm &amp; Alpine Linux stack (1 week ago)
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. (1 week ago)
