@@ -11,15 +11,15 @@
 
 #### // recent contributions
 
-- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker. (3 days ago)
-- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (4 days ago)
+- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker. (4 days ago)
+- [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (5 days ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 week ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 week ago)
 - [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (1 week ago)
 
 #### // recent pull requests
 
-- [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (4 days ago)
+- [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (5 days ago)
 - [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (3 weeks ago)
 - [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 weeks ago)
 - [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 months ago)
@@ -27,10 +27,10 @@
 
 #### // recent stars
 
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (3 days ago)
-- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (6 days ago)
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (6 days ago)
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (6 days ago)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (4 days ago)
+- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (1 week ago)
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (1 week ago)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 week ago)
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (1 week ago)
 
 ## // metrics
