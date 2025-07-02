@@ -11,8 +11,8 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (today)
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (today)
+- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (1 day ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 day ago)
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker. (1 week ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (1 week ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
