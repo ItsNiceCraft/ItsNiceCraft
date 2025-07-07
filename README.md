@@ -11,10 +11,10 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (3 days ago)
-- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (5 days ago)
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (5 days ago)
-- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker. (1 week ago)
+- [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (4 days ago)
+- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (6 days ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (6 days ago)
+- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker. (2 weeks ago)
 - [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) -  (2 weeks ago)
 
 #### // recent pull requests
@@ -27,7 +27,7 @@
 
 #### // recent stars
 
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 week ago)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (2 weeks ago)
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (2 weeks ago)
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (2 weeks ago)
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (2 weeks ago)
