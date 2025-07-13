@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (today)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (1 day ago)
 - [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (1 week ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (1 week ago)
 - [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (1 week ago)
@@ -19,7 +19,7 @@
 
 #### // recent pull requests
 
-- [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (2 weeks ago)
+- [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (3 weeks ago)
 - [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (1 month ago)
 - [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 month ago)
 - [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 months ago)
