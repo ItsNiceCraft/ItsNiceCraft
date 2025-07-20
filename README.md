@@ -19,7 +19,7 @@
 
 #### // recent pull requests
 
-- [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (3 weeks ago)
+- [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (4 weeks ago)
 - [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (1 month ago)
 - [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 month ago)
 - [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 months ago)
@@ -27,11 +27,11 @@
 
 #### // recent stars
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol (today)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (3 weeks ago)
-- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (4 weeks ago)
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (4 weeks ago)
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (4 weeks ago)
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). (1 month ago)
+- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (1 month ago)
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (1 month ago)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 month ago)
 
 ## // metrics
 
