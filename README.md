@@ -11,7 +11,7 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (5 days ago)
+- [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (6 days ago)
 - [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 weeks ago)
 - [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (3 weeks ago)
