@@ -23,11 +23,11 @@
 - [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (1 month ago)
 - [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 month ago)
 - [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (4 months ago)
-- [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (4 months ago)
+- [Add !ppx and !pplx for perplexity](https://github.com/kagisearch/bangs/pull/187) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (5 months ago)
 
 #### // recent stars
 
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol (1 week ago)
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol (2 weeks ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (1 month ago)
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (1 month ago)
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (1 month ago)
