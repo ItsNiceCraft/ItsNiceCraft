@@ -19,7 +19,7 @@
 
 #### // recent pull requests
 
-- [Fix ansible related bangs](https://github.com/kagisearch/bangs/pull/253) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (today)
+- [Fix ansible related bangs](https://github.com/kagisearch/bangs/pull/253) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 day ago)
 - [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (1 month ago)
 - [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (2 months ago)
 - [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
