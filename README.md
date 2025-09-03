@@ -21,8 +21,8 @@
 
 - [Fix ansible related bangs](https://github.com/kagisearch/bangs/pull/253) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (4 weeks ago)
 - [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (2 months ago)
-- [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (2 months ago)
-- [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (2 months ago)
+- [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (3 months ago)
+- [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 months ago)
 - [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (5 months ago)
 
 #### // recent stars
