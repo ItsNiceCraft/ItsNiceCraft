@@ -11,8 +11,8 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (5 days ago)
-- [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (5 days ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (6 days ago)
+- [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (6 days ago)
 - [kagisearch/bangs](https://github.com/kagisearch/bangs) - Repository of bangs used by Kagi Search (1 month ago)
 - [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 months ago)
 - [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (2 months ago)
@@ -27,11 +27,11 @@
 
 #### // recent stars
 
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol (1 month ago)
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol (2 months ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (2 months ago)
-- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (2 months ago)
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (2 months ago)
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (2 months ago)
+- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (3 months ago)
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (3 months ago)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (3 months ago)
 
 ## // metrics
 
