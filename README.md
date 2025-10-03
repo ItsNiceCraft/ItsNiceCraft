@@ -11,18 +11,18 @@
 
 #### // recent contributions
 
-- [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (2 days ago)
-- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (2 days ago)
-- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (2 days ago)
+- [ItsNiceCraft/chunky-player-pause](https://github.com/ItsNiceCraft/chunky-player-pause) - 🚦 Pause chunk generation when players are online (3 days ago)
+- [ItsNiceCraft/simple-night-vision](https://github.com/ItsNiceCraft/simple-night-vision) - 🔦 Give all players permanent night vision as an alternative to fullbright texture packs (3 days ago)
+- [ItsNiceCraft/simple-glowing](https://github.com/ItsNiceCraft/simple-glowing) -  (3 days ago)
 - [ItsNiceCraft/ankisyncserver](https://github.com/ItsNiceCraft/ankisyncserver) -  (1 week ago)
-- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (2 weeks ago)
+- [ItsNiceCraft/masstld](https://github.com/ItsNiceCraft/masstld) - 🧭 Command line utility that searches for available domain names using a list of TLDs. (3 weeks ago)
 
 #### // recent pull requests
 
 - [Fix ansible related bangs](https://github.com/kagisearch/bangs/pull/253) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (1 month ago)
 - [docs: remove security cap note](https://github.com/searxng/searxng-docker/pull/398) on [searxng/searxng-docker](https://github.com/searxng/searxng-docker) (3 months ago)
-- [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (3 months ago)
-- [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (3 months ago)
+- [v2](https://github.com/ItsNiceCraft/dots/pull/1) on [ItsNiceCraft/dots](https://github.com/ItsNiceCraft/dots) (4 months ago)
+- [Fix os bang](https://github.com/kagisearch/bangs/pull/232) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (4 months ago)
 - [Fix Tagesschau, add missing German state news sites](https://github.com/kagisearch/bangs/pull/198) on [kagisearch/bangs](https://github.com/kagisearch/bangs) (6 months ago)
 
 #### // recent stars
